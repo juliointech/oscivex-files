@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.35.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.35.0.exe",
-  "sha256": "50585dd2878cc1655dc288169b1ea75cd831d08ea5192aa3a74c530e59b7a5e3",
-  "notes": "The AI bot page now shows the strategies in one table with how well each tested, and the bot's money in one sentence. Settings and first-run setup show a live picture of your day as you set your limits, and say 'loss limit' instead of 'drawdown'. The terms now open with a short version in plain words. Nothing about how Firebreak works has changed.",
+  "version": "2.35.1",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.35.1.exe",
+  "sha256": "6393466f4ec19c918dd076b39599f6cc4620b8f63627f7c3d085d42096b5a827",
+  "notes": "Fix: after an update, the app window could keep showing the old pages. It now always loads the newest ones, so you'll see the new Today, Copy trading, Trade, Results, Journal and AI bot pages.",
   "required": false,
-  "issued": 1793921647
+  "issued": 1793922367
  },
- "sig": "gm0WBqxWPZhn119Et6EMSGakNYVmRlxXAt4mfuRzcFLL7jibfxJAULbAUC7v9eQUSoz62xGbpnTglagK7ZJlZP9KjnjvtU58GVvY4-pYVfOQKwFvcm8VUGxbRxF8he7VxbromuBuiLc9xHpWxxGPDQY9mgIDl-ilqddBoJ2fewp_c3NJ3cmpKUK94CrUMePAB8cSbhxQ_CR_uxzPyodmGRUz8cFHxCC1uUcHCz3NQRNvPSzD3uwJt-EAhAnHi8syat9VcOM7vvH8-SoeGPbUGs8TV59QDKSKbz7XLsTzLVAQgzZpH5lyZKaxA-umStNAIs4sOMUmIhd_BtXKStDg7w"
+ "sig": "Xt_-B-WzH6K7FaTxecqjOs05XVvVnxVYjUyMNBzn3GHNEkgZnfF1dG7_omYOaLmuSgFacDPEQ9JqYKCidk3e12987NM-Gawo8DiEuuE-w9y1b1QMCLeh3L-cHnILjbuAf7BijZcRroCvbp1KUiRHKYNUo_26ihhtTwBek3Nifewg6rtYyaDEOV5XuLDf1yWFoA6nTMIhX97VlBPoQbgZ7gIi88sJd9U6v4yWH9vxLRkjjd_JT6s26stLfQqzW1T1EcbtDXsmFqIWDMHY3tHbY7DSabcUR8Fl6G_n47SjKD8sfIqp8HnYy3I3wprox5ZGYzbj-GOUgELTH8kSq55tVg"
 }
