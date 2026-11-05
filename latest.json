@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.29.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.29.0.exe",
-  "sha256": "6fa30df13a7725b2cc6892ad413e6fd10bc509e22c97931591e2fc9dc8a7d106",
-  "notes": "Copy Trading is now for Ablaze - Julio members only (Errante accounts under Julio's link, or a licence key). Everyone can still see every coach's results, and everything else in Oscivex stays free.",
+  "version": "2.30.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.30.0.exe",
+  "sha256": "00f884871c23c1578a271e68df847a441c15793cd0b6c23f9bcc900eef568697",
+  "notes": "Copy Trading is now free for everyone in the Ablaze community, on any broker with MetaTrader 5. No unlock needed.",
   "required": false,
-  "issued": 1793890737
+  "issued": 1793895775
  },
- "sig": "VXlJSuZGjGeEwOhZqWV5V8GNZwzpv8hf3dVRyeQotkrY6lkVsYhKZwsMobzrc7YhSZ30FhUPILrRfqnmteOjVizDxu1A3Vq3CUWOFY21XlO8lknHcH7um_ncXxYblGFwRpvHZ_FIu8pHPspJ_j9BXpAZGP2ggclVtlYZzfUqAF880KdbLuCUFtp827QiuSi92zN_8w_LGauVrty1FDHGqh9Uxhhk4bkADqgNhafkiATb4Q55LarOpDjTOr4Ye9-bEZtzBjLELl117dcDwCa7aYuoPwg33m6cZuwzaWMWjy9g009-ggLGz7RveNbyelKg-c8S5GgpXYaJfQsyJvR7oA"
+ "sig": "R_VU-Ue7tNLI4sCnY6tD8CrWW5k9VEOEkmm8r55XAxyztuucK06rFqtTjTA4vMqPx4WPU8nNDI20VzQV9WpkNVa0qdzTNaXgoVJI6kQKBIsOxbqtc9PxCvR3Gg4zN4iCMrEWY6tiIxDCA9iZCA0T3h6ZzZ7_LL-LyhK7Ays03-3p03Q1lJ8XGOOhT6RuksYc9xms62h-oBavO_sAE6yv8Y2EFyxiC_Q39_9j-mbRKnvEzDt3NBJ_sxUXHIX6f8aJOzxoGL_5dYbiFRtaf8eamFy6JN4ryYWl-t0qpJrjQEI3tH5Mb1u-ez8WAshZC5b1S29XtFYk0UYQJbPwNVBp2w"
 }
