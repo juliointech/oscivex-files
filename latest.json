@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.28.4",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.4.exe",
-  "sha256": "ecda8fc53d713ae97f747ec139bf9a727386b225e9cef575d2aedf0d285a6ca9",
-  "notes": "Oscivex now has its own window: MetaTrader 5 runs hidden behind it (the eye button shows it), and closing Oscivex closes MT5 too, after a warning. Also: log in from the dashboard if MT5 opens logged out, your limits apply from day one, and Telegram reconnects by itself.",
+  "version": "2.28.5",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.5.exe",
+  "sha256": "3900dfd027ff22b632d141ab8200479cbea7870e69ff6e9cb937f86f040c5d56",
+  "notes": "When a coach says 'close all' just after posting, the call now shows as closed straight away instead of staying 'Running'.",
   "required": false,
-  "issued": 1793862906
+  "issued": 1793871965
  },
- "sig": "SoilWN7FVbxv2c9Vr7hZHsjFkhRgVhj5QjgtPy_sk0mSyU8B6xmx2U0HC6zM0o41YmSu_rR4IHk42b4AaVRcDLXJ9sgb7uQtlEHQRn1-sqVKR9aoa0VFB0lGNlDvMKOXLlecRnncT4fwWTA7pb7LrJpKtmTN5GxKrLm6XdUvan32yNXyVXfW_7iygw1fc07Y0t6AvS0FDjSDK3b7CendFiZqZkPmWopW3_q0m5eH5X1f81wQrkkvMLue5MdJK10TyKK4YZeYEOzhizRRrS0WXcrT0mpIqdFAf68nBMNX4jJFCaCiQ04GiFr7kKy6gRNsXm117tAuAtJ35EXaMuz8eQ"
+ "sig": "PJnh02hR0hVkCD-ieItSPhhN0anCpNdg3qv3-ZRFbx8ESDsmJHE_7qn0__fRiTbVTJiUrKAwSwoCk5NdtH5z8_JIwlAJrnp9Yliv585uT-VhXJCU_wNQpcDYvR8qEbwp2ZukKnP9YwAciZJljCmzw21nSVpQ_ve26iyy0ivLXxdFDcGEbotYb080T-s3d5cPmAHF1WTDOoxfRX9w1mxi3XayQ4dtfRcKsocRnf8DwrHcu7vnfL5jKDFUFwNobO_KgtuE4DacapVEf7mMeHs3sgohuNCrOoP3RWr-MP00G9IvaE9AX4mshx8b7RNBvtNIxI1s_IyDV_kCR2yunHDiiQ"
 }
