@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.32.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.32.0.exe",
-  "sha256": "46dcd0395f369443864535d82b43a3d07b25450971a9b97e87072d797230bdc1",
-  "notes": "Copy trading is now a clear table: one row per provider, with tabs for who you copy and who you don't, search, a market filter and sorting. Click a provider to see its details in a side panel. Your copy wallet is now one plain sentence. The program, its shortcuts and the installer are now called Ablaze Firebreak (old shortcuts are replaced). The terms now say Firebreak instead of Oscivex, so you'll be asked to accept them once. Your copying keeps running.",
+  "version": "2.33.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.33.0.exe",
+  "sha256": "9eb52006f465b1d3ed9f10439968c32ef2bf5ec96ff521ef09f37f3fecb48d53",
+  "notes": "Today now opens with how much room you have left, and a scale from your lock to your target showing today's range and where you are now, with plain facts underneath. If you run more than one account, they now sit inside the account switcher with their equity and lock, instead of a row above every page. Today also fits phones properly.",
   "required": false,
-  "issued": 1793903586
+  "issued": 1793904256
  },
- "sig": "b8gG51-wzZHa1WMceWoQw8qydGCpMl_TO7XdCPuNQiX4Q9YdyqprzpIkpG4-QhUzM301EPzOGWx_uKlwfxDjsvZi23FvOckp72kRImIzKUX7m0s8RuoR7rOnDmnhk_oyu4TVERrJXCYxEQ0DcOjVmqegOa6En4vTPokzGV9hyci8VL4sz7CKG_9c03Ytv46vaf7rLU4guqTLN_QFZ3zGLrQTDTRgYJBRv14Z6rpAtqSX0yHW0l4eOg6Moggyz4e0lP88NOh4WgY8wbkZ-f2qM4YM0YVM4mO3YYYzpJkY6FqHJ2698PGMlvKM679MMtRvonyxBNqvC6CVzbTIAmsvzQ"
+ "sig": "HKgcLnFRC_c6QH8I7JIee547so2clKDiLP0TRWuXkSQieN_1epbKjMtTLLsfJe0PBow8-74-NUb0C-burB5uCrsaxRYr0VGMCdfkspux3cv0CIQ88V4H2DCuuX_hf60VMiIm1ebMfVDIEgJcTum_CUXM1Uj1KNebZzlCbGBlOyefr5xEz4IG-AJR-xVPPvIoKuiaSr8-PU0sea09SBVpyUHflj0LVXzjnm2cSD8qVV_QVGhXk3fGgEF99HWaslH4PtWaOdX-Yp8RRcdO4h99VHofArVtHf9eKQ2jrtcJ9tbT-MPUYORhl9jReYUyUIW1f6GH6R9BIqpu87-YMBWXLg"
 }
