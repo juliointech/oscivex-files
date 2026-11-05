@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.28.5",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.5.exe",
-  "sha256": "3900dfd027ff22b632d141ab8200479cbea7870e69ff6e9cb937f86f040c5d56",
-  "notes": "When a coach says 'close all' just after posting, the call now shows as closed straight away instead of staying 'Running'.",
+  "version": "2.28.6",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.6.exe",
+  "sha256": "d74c72310c595d38be912db53a7aa9c8792eb115ce78003b8fda33412c3d93fc",
+  "notes": "US100 and other index calls: each coach's price gap is now its own, so a coach who quotes your broker's price is copied at the right level.",
   "required": false,
-  "issued": 1793871965
+  "issued": 1793873319
  },
- "sig": "PJnh02hR0hVkCD-ieItSPhhN0anCpNdg3qv3-ZRFbx8ESDsmJHE_7qn0__fRiTbVTJiUrKAwSwoCk5NdtH5z8_JIwlAJrnp9Yliv585uT-VhXJCU_wNQpcDYvR8qEbwp2ZukKnP9YwAciZJljCmzw21nSVpQ_ve26iyy0ivLXxdFDcGEbotYb080T-s3d5cPmAHF1WTDOoxfRX9w1mxi3XayQ4dtfRcKsocRnf8DwrHcu7vnfL5jKDFUFwNobO_KgtuE4DacapVEf7mMeHs3sgohuNCrOoP3RWr-MP00G9IvaE9AX4mshx8b7RNBvtNIxI1s_IyDV_kCR2yunHDiiQ"
+ "sig": "QMprr2zzHJ7SYRXTmk__GLAfw2X9qtXzi5Z7VQIFWbUIyQ9tm_ZXAhX0zVVwJX68BtZZfNISounDtTR9M5vl6iIIt_DbjDXZpvTtwTR9dLC6G05FxIx3mEUVJ6n61dmXr5XTc9WBQO-0l1WjCl4vNEP4w80P_JlbefhxBZ12hYuBL-Zv3WM8Oh2cmYAthXquZ5por-wSMbSybzfIQXm_wrM9BB-1X34jmlTPpKkT9vvlsl1NE0ef9aFkG5WSoGH0F36Uj6jiTF8yn1fHjsNebBypkhb7PXOHN8YKvgdVzqDGJXFj83vM1nhLq3Guc8hGPrvYFfi8o_STXLDp-Ucb0w"
 }
