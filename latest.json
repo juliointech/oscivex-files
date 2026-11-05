@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.33.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.33.0.exe",
-  "sha256": "9eb52006f465b1d3ed9f10439968c32ef2bf5ec96ff521ef09f37f3fecb48d53",
-  "notes": "Today now opens with how much room you have left, and a scale from your lock to your target showing today's range and where you are now, with plain facts underneath. If you run more than one account, they now sit inside the account switcher with their equity and lock, instead of a row above every page. Today also fits phones properly.",
+  "version": "2.34.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.34.0.exe",
+  "sha256": "47dddce6ce4febdb0e90308a59ac47b84a09bca98dd4f360397cdd158849c2aa",
+  "notes": "The order ticket now says in one sentence what a trade risks and what it can make, and how much of today's room you'd keep. Buy and Sell still work in one click. Results open with one headline and plain facts, and the Journal has big To review and All trades tabs and fits phones. If you still had the old Oscivex colours, Firebreak switches you to the Ablaze look once (the old one is still in Settings as Classic).",
   "required": false,
-  "issued": 1793904256
+  "issued": 1793921106
  },
- "sig": "HKgcLnFRC_c6QH8I7JIee547so2clKDiLP0TRWuXkSQieN_1epbKjMtTLLsfJe0PBow8-74-NUb0C-burB5uCrsaxRYr0VGMCdfkspux3cv0CIQ88V4H2DCuuX_hf60VMiIm1ebMfVDIEgJcTum_CUXM1Uj1KNebZzlCbGBlOyefr5xEz4IG-AJR-xVPPvIoKuiaSr8-PU0sea09SBVpyUHflj0LVXzjnm2cSD8qVV_QVGhXk3fGgEF99HWaslH4PtWaOdX-Yp8RRcdO4h99VHofArVtHf9eKQ2jrtcJ9tbT-MPUYORhl9jReYUyUIW1f6GH6R9BIqpu87-YMBWXLg"
+ "sig": "HKan8jTx9BRza43QaBN0Pmh_S47tjH6d3Ha1KWaG8aeO-yEyiauQ8-EYBWL5YBSQRnlCfZ_4LY8jF4Fex33-DaH0qvp7LIrbNwUZ-J41rUaMV8j1us9ZnYc0UiBLk-AAo9eT5VOond3KL1RQjqmsXNtXxfidYl_aCBz2GKkqOR2ixBOj-b0bUIP3mV-yMeWRWE-lzl9SNbAO_xBdGTPEEARHhazaQshVjwjkuk195ueK74c4MzX7-FATF1vYABNwZa_JqdCCjB6vxPxOKVAgR-j20hXtWD8-ntMBiNSMP-q3dWh1xyEaUgvW3c1mpmL3R1UPEWqPsosj3WO6koSO1A"
 }
