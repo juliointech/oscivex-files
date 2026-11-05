@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.30.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.30.0.exe",
-  "sha256": "00f884871c23c1578a271e68df847a441c15793cd0b6c23f9bcc900eef568697",
-  "notes": "Copy Trading is now free for everyone in the Ablaze community, on any broker with MetaTrader 5. No unlock needed.",
+  "version": "2.30.1",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.30.1.exe",
+  "sha256": "89fbc02757702c0e29e68304b35126c4481154fbdc583deb188980c18c6d4f86",
+  "notes": "Security update: safer phone access, Telegram copying only follows the coach's own account, the AI bot respects your lockout, and Oscivex's settings move to a private folder. Nothing to set up.",
   "required": false,
-  "issued": 1793895775
+  "issued": 1793900148
  },
- "sig": "R_VU-Ue7tNLI4sCnY6tD8CrWW5k9VEOEkmm8r55XAxyztuucK06rFqtTjTA4vMqPx4WPU8nNDI20VzQV9WpkNVa0qdzTNaXgoVJI6kQKBIsOxbqtc9PxCvR3Gg4zN4iCMrEWY6tiIxDCA9iZCA0T3h6ZzZ7_LL-LyhK7Ays03-3p03Q1lJ8XGOOhT6RuksYc9xms62h-oBavO_sAE6yv8Y2EFyxiC_Q39_9j-mbRKnvEzDt3NBJ_sxUXHIX6f8aJOzxoGL_5dYbiFRtaf8eamFy6JN4ryYWl-t0qpJrjQEI3tH5Mb1u-ez8WAshZC5b1S29XtFYk0UYQJbPwNVBp2w"
+ "sig": "IA25fzYVGlgPx3VI9hF6s6Mlb1TAGmg7QSfUCUzNmqeJzSlO20OSkqg5d2WbiMuNyV_EPcMae7l1LrMDrevIgnheF1EDNs49wntW7n7aWZ67sEGA4B3-vXN2I9PUcn4qjqRv29NDPdTSZCrKDMdxJhWScmYGXf3d2xgXkNuoSvgZnFaMmROaeBUe901JLDSN6FWlyHG8h3lj04h9WFN7zYI0vyEBuqegX04q5FmyDJ5dywZPcAutWfA2DFFI0HPnYkM733QbiFmgZTs_bBP6i2TgJVZnsTVxSrge7P4IBCGCMESpN6HcoeQL1q35R_dgcIotPl1n7NJBigR4BW1gUQ"
 }
