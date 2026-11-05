@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.28.2",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.2.exe",
-  "sha256": "b575d244231fccee34afbafe202dc3898dfa87a9dd4c4a7203bb74408319a2b5",
-  "notes": "Set-up now works with a freshly installed MetaTrader 5: log in to your account right inside Oscivex. MT5 also logs back in by itself after a restart.",
+  "version": "2.28.3",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.3.exe",
+  "sha256": "3ae26f1c82249106b61530eb125b778ba1767054449b9f327420e3a308c1581c",
+  "notes": "Before set-up is finished, Oscivex no longer reopens MetaTrader 5 by itself: close it and it stays closed.",
   "required": false,
-  "issued": 1793860890
+  "issued": 1793861403
  },
- "sig": "Bm7kzxrxE-XBF3g4xL18XcbT-mnCVpY0pmVG3ZAi4lJ8I4SCYRxIhrTZPx8JTf-N2k9ZSp9bevnGGAeBH8Rsw-FFl22UieOUZd9L-DVJqkaSd4verKYyV8k6rd9iZg4Xazg32ajl3rVsAlbEeM-V8QeQTW-eAlpkSjwJwsKiRSkM8jLWqth5CtzO3ODAncFpqZsOtEQWjWOyhimoCZXycOTZffHgTA6PSpFofugeA4ysGzgSuML-iBQOKyAbf58OuQ_2uPXfZ2ruAyrFSz20jh61yNa7s9JEANhi73yUdobBes-0UWOm6czXbeZdiJCt_tr3C5e0_h-cZYDYKjI3iQ"
+ "sig": "gLwD_XMVKKySqKdhsvE_DU53WLErdzs_ChYFDXND_6ByrzfjZm_gqgiKP9nStftfQQ7qwpLkknAtkvVwXskRNP4OElBDobyT-DJv2RZZIgGBmQ2Puvatgq6YqkGd5xKit7K-MwxA-KuigCO2MMzN02iwAbLrPu02KsFdemgvJbvbd15uwSQEjYdXNUIW0wSXX7tjMQ-2HZlwesox_vpe2HamAkx5TSQA5G09Av1gRHjYcCL3id5wiLN4QdxlrjMzV2dn3uaO2Cc97GAvBXhy4IAWmfXq3x-mlZ0MabKAaf1Mj_JYpp_eFpufa5JC3m0uCGvjyJC6M-OZotB_6nHegw"
 }
