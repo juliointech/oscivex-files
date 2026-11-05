@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.31.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.31.0.exe",
-  "sha256": "496eb84a49eb45250bf59083cdab05135498f6a4933f94aae0ba1b95b0c8f751",
-  "notes": "A new look: Oscivex is now Ablaze Firebreak. Warm Ablaze colours that are easier on the eyes over long sessions, the Ablaze logo, a day line across the top of every page showing where you are between your lock and your target, and a tidier sidebar. Smart Trading is now called AI bot and Performance is now Results. Nothing to set up.",
+  "version": "2.32.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.32.0.exe",
+  "sha256": "46dcd0395f369443864535d82b43a3d07b25450971a9b97e87072d797230bdc1",
+  "notes": "Copy trading is now a clear table: one row per provider, with tabs for who you copy and who you don't, search, a market filter and sorting. Click a provider to see its details in a side panel. Your copy wallet is now one plain sentence. The program, its shortcuts and the installer are now called Ablaze Firebreak (old shortcuts are replaced). The terms now say Firebreak instead of Oscivex, so you'll be asked to accept them once. Your copying keeps running.",
   "required": false,
-  "issued": 1793902455
+  "issued": 1793903586
  },
- "sig": "HiZAsMt2LEpH2oagrd62sRRHdtUuPHcNKXY9LDh0fW5eTMMQtMcwJUnZ_9JWI1W_4sM12hi8JCx7zF0ZUJA4p1j6cAIvr1ya5utpT6guiw9GWLszLLc-Jdp_QPPrhLWOs7WjK-B6sjntnuKrbm0M78LEcDmAn5TlTsURy8rdPNTna86Xn1chzh-7tpGM9V5RlrtCGRp0QyaUIPNScx9c6Xi47pNUeXmxadl7-Alv8ee-njIbuBWjTDzYxB374yfI7Av-jw-gESs3nCf5nJudZd1Xu2w3mwAZ6t1ciwcw2_mB6NGXrmv_j33ol8y9rHJHs3MkF_XK8fB33bmTKGtL2g"
+ "sig": "b8gG51-wzZHa1WMceWoQw8qydGCpMl_TO7XdCPuNQiX4Q9YdyqprzpIkpG4-QhUzM301EPzOGWx_uKlwfxDjsvZi23FvOckp72kRImIzKUX7m0s8RuoR7rOnDmnhk_oyu4TVERrJXCYxEQ0DcOjVmqegOa6En4vTPokzGV9hyci8VL4sz7CKG_9c03Ytv46vaf7rLU4guqTLN_QFZ3zGLrQTDTRgYJBRv14Z6rpAtqSX0yHW0l4eOg6Moggyz4e0lP88NOh4WgY8wbkZ-f2qM4YM0YVM4mO3YYYzpJkY6FqHJ2698PGMlvKM679MMtRvonyxBNqvC6CVzbTIAmsvzQ"
 }
