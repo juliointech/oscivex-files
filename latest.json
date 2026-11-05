@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.28.1",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.1.exe",
-  "sha256": "09f3b373bd43a0acb0700b450ab68ad6d750b40c59ef9c1320ae9b93406f0441",
-  "notes": "The set-up screen now shows its steps on smaller screens and laptops.",
+  "version": "2.28.2",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.2.exe",
+  "sha256": "b575d244231fccee34afbafe202dc3898dfa87a9dd4c4a7203bb74408319a2b5",
+  "notes": "Set-up now works with a freshly installed MetaTrader 5: log in to your account right inside Oscivex. MT5 also logs back in by itself after a restart.",
   "required": false,
-  "issued": 1793859896
+  "issued": 1793860890
  },
- "sig": "kyN5MnuKxL1zI9m_YfiFHvRlsSyzdGiBp3Giq6lm0QudUc4_j3wXWOUI9-n4rNIkzudZsJsdzBkITdSp0ogCuQnMRPaF0WVxTux870ac7rOlZNjf38eA-DCG4riz5GmteDVv9MQYbpIu6gekUetuAJGgFxnFpS9LZYix9_U3LZFRYaKgXO0MNFGBtM-nEkauwlBlh8Zq6-P7NDa3QZoCw9R6HBmQGlZmU7wEqRPjJoObV_6aBlCJTZJHME3ZzfmskxoOcCzFcyVqphnbrUmF3pD93tgUycO7omlyxo3zEhE7AqTOSxujPzd7qVPtUYKDjKWau8v4nCed9XCEvM_Icw"
+ "sig": "Bm7kzxrxE-XBF3g4xL18XcbT-mnCVpY0pmVG3ZAi4lJ8I4SCYRxIhrTZPx8JTf-N2k9ZSp9bevnGGAeBH8Rsw-FFl22UieOUZd9L-DVJqkaSd4verKYyV8k6rd9iZg4Xazg32ajl3rVsAlbEeM-V8QeQTW-eAlpkSjwJwsKiRSkM8jLWqth5CtzO3ODAncFpqZsOtEQWjWOyhimoCZXycOTZffHgTA6PSpFofugeA4ysGzgSuML-iBQOKyAbf58OuQ_2uPXfZ2ruAyrFSz20jh61yNa7s9JEANhi73yUdobBes-0UWOm6czXbeZdiJCt_tr3C5e0_h-cZYDYKjI3iQ"
 }
