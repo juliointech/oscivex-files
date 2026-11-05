@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.30.1",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.30.1.exe",
-  "sha256": "89fbc02757702c0e29e68304b35126c4481154fbdc583deb188980c18c6d4f86",
-  "notes": "Security update: safer phone access, Telegram copying only follows the coach's own account, the AI bot respects your lockout, and Oscivex's settings move to a private folder. Nothing to set up.",
+  "version": "2.31.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.31.0.exe",
+  "sha256": "496eb84a49eb45250bf59083cdab05135498f6a4933f94aae0ba1b95b0c8f751",
+  "notes": "A new look: Oscivex is now Ablaze Firebreak. Warm Ablaze colours that are easier on the eyes over long sessions, the Ablaze logo, a day line across the top of every page showing where you are between your lock and your target, and a tidier sidebar. Smart Trading is now called AI bot and Performance is now Results. Nothing to set up.",
   "required": false,
-  "issued": 1793900148
+  "issued": 1793902455
  },
- "sig": "IA25fzYVGlgPx3VI9hF6s6Mlb1TAGmg7QSfUCUzNmqeJzSlO20OSkqg5d2WbiMuNyV_EPcMae7l1LrMDrevIgnheF1EDNs49wntW7n7aWZ67sEGA4B3-vXN2I9PUcn4qjqRv29NDPdTSZCrKDMdxJhWScmYGXf3d2xgXkNuoSvgZnFaMmROaeBUe901JLDSN6FWlyHG8h3lj04h9WFN7zYI0vyEBuqegX04q5FmyDJ5dywZPcAutWfA2DFFI0HPnYkM733QbiFmgZTs_bBP6i2TgJVZnsTVxSrge7P4IBCGCMESpN6HcoeQL1q35R_dgcIotPl1n7NJBigR4BW1gUQ"
+ "sig": "HiZAsMt2LEpH2oagrd62sRRHdtUuPHcNKXY9LDh0fW5eTMMQtMcwJUnZ_9JWI1W_4sM12hi8JCx7zF0ZUJA4p1j6cAIvr1ya5utpT6guiw9GWLszLLc-Jdp_QPPrhLWOs7WjK-B6sjntnuKrbm0M78LEcDmAn5TlTsURy8rdPNTna86Xn1chzh-7tpGM9V5RlrtCGRp0QyaUIPNScx9c6Xi47pNUeXmxadl7-Alv8ee-njIbuBWjTDzYxB374yfI7Av-jw-gESs3nCf5nJudZd1Xu2w3mwAZ6t1ciwcw2_mB6NGXrmv_j33ol8y9rHJHs3MkF_XK8fB33bmTKGtL2g"
 }
