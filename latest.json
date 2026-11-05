@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.34.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.34.0.exe",
-  "sha256": "47dddce6ce4febdb0e90308a59ac47b84a09bca98dd4f360397cdd158849c2aa",
-  "notes": "The order ticket now says in one sentence what a trade risks and what it can make, and how much of today's room you'd keep. Buy and Sell still work in one click. Results open with one headline and plain facts, and the Journal has big To review and All trades tabs and fits phones. If you still had the old Oscivex colours, Firebreak switches you to the Ablaze look once (the old one is still in Settings as Classic).",
+  "version": "2.35.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.35.0.exe",
+  "sha256": "50585dd2878cc1655dc288169b1ea75cd831d08ea5192aa3a74c530e59b7a5e3",
+  "notes": "The AI bot page now shows the strategies in one table with how well each tested, and the bot's money in one sentence. Settings and first-run setup show a live picture of your day as you set your limits, and say 'loss limit' instead of 'drawdown'. The terms now open with a short version in plain words. Nothing about how Firebreak works has changed.",
   "required": false,
-  "issued": 1793921106
+  "issued": 1793921647
  },
- "sig": "HKan8jTx9BRza43QaBN0Pmh_S47tjH6d3Ha1KWaG8aeO-yEyiauQ8-EYBWL5YBSQRnlCfZ_4LY8jF4Fex33-DaH0qvp7LIrbNwUZ-J41rUaMV8j1us9ZnYc0UiBLk-AAo9eT5VOond3KL1RQjqmsXNtXxfidYl_aCBz2GKkqOR2ixBOj-b0bUIP3mV-yMeWRWE-lzl9SNbAO_xBdGTPEEARHhazaQshVjwjkuk195ueK74c4MzX7-FATF1vYABNwZa_JqdCCjB6vxPxOKVAgR-j20hXtWD8-ntMBiNSMP-q3dWh1xyEaUgvW3c1mpmL3R1UPEWqPsosj3WO6koSO1A"
+ "sig": "gm0WBqxWPZhn119Et6EMSGakNYVmRlxXAt4mfuRzcFLL7jibfxJAULbAUC7v9eQUSoz62xGbpnTglagK7ZJlZP9KjnjvtU58GVvY4-pYVfOQKwFvcm8VUGxbRxF8he7VxbromuBuiLc9xHpWxxGPDQY9mgIDl-ilqddBoJ2fewp_c3NJ3cmpKUK94CrUMePAB8cSbhxQ_CR_uxzPyodmGRUz8cFHxCC1uUcHCz3NQRNvPSzD3uwJt-EAhAnHi8syat9VcOM7vvH8-SoeGPbUGs8TV59QDKSKbz7XLsTzLVAQgzZpH5lyZKaxA-umStNAIs4sOMUmIhd_BtXKStDg7w"
 }
