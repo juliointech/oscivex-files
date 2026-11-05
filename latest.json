@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.28.6",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.6.exe",
-  "sha256": "d74c72310c595d38be912db53a7aa9c8792eb115ce78003b8fda33412c3d93fc",
-  "notes": "US100 and other index calls: each coach's price gap is now its own, so a coach who quotes your broker's price is copied at the right level.",
+  "version": "2.29.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.29.0.exe",
+  "sha256": "6fa30df13a7725b2cc6892ad413e6fd10bc509e22c97931591e2fc9dc8a7d106",
+  "notes": "Copy Trading is now for Ablaze - Julio members only (Errante accounts under Julio's link, or a licence key). Everyone can still see every coach's results, and everything else in Oscivex stays free.",
   "required": false,
-  "issued": 1793873319
+  "issued": 1793890737
  },
- "sig": "QMprr2zzHJ7SYRXTmk__GLAfw2X9qtXzi5Z7VQIFWbUIyQ9tm_ZXAhX0zVVwJX68BtZZfNISounDtTR9M5vl6iIIt_DbjDXZpvTtwTR9dLC6G05FxIx3mEUVJ6n61dmXr5XTc9WBQO-0l1WjCl4vNEP4w80P_JlbefhxBZ12hYuBL-Zv3WM8Oh2cmYAthXquZ5por-wSMbSybzfIQXm_wrM9BB-1X34jmlTPpKkT9vvlsl1NE0ef9aFkG5WSoGH0F36Uj6jiTF8yn1fHjsNebBypkhb7PXOHN8YKvgdVzqDGJXFj83vM1nhLq3Guc8hGPrvYFfi8o_STXLDp-Ucb0w"
+ "sig": "VXlJSuZGjGeEwOhZqWV5V8GNZwzpv8hf3dVRyeQotkrY6lkVsYhKZwsMobzrc7YhSZ30FhUPILrRfqnmteOjVizDxu1A3Vq3CUWOFY21XlO8lknHcH7um_ncXxYblGFwRpvHZ_FIu8pHPspJ_j9BXpAZGP2ggclVtlYZzfUqAF880KdbLuCUFtp827QiuSi92zN_8w_LGauVrty1FDHGqh9Uxhhk4bkADqgNhafkiATb4Q55LarOpDjTOr4Ye9-bEZtzBjLELl117dcDwCa7aYuoPwg33m6cZuwzaWMWjy9g009-ggLGz7RveNbyelKg-c8S5GgpXYaJfQsyJvR7oA"
 }
