@@ -25,7 +25,7 @@
 <body>
 <main class="card">
   <h1>Activate Oscivex</h1>
-  <p id="msg">Opening Oscivex on this PC…</p>
+  <p id="msg">Click the button to unlock copy trading in Oscivex on this PC.</p>
   <p class="small">If your browser asks, choose <b>Open Oscivex</b>.</p>
   <a class="btn" id="open" href="#">Open Oscivex</a>
   <details>
@@ -45,8 +45,7 @@
     document.getElementById('open').style.display = 'none';
   } else {
     document.getElementById('key').textContent = key;
-    document.getElementById('open').href = link;
-    setTimeout(function () { location.href = link; }, 300);
+    document.getElementById('open').href = link;  // opened only by a click: Chrome blocks links that open by themselves
   }
   document.getElementById('copy').onclick = function () {
     try { navigator.clipboard.writeText(key); this.textContent = 'Copied'; } catch (e) { /* select it by hand */ }
