@@ -1,0 +1,12 @@
+{
+ "payload": {
+  "kind": "update",
+  "version": "2.28.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.0.exe",
+  "sha256": "11b00de42a3a0c2b1d8bf60412bfe7e30c77348fdb6d3a9103f5ad687a965e50",
+  "notes": "Copy trading catches up on calls posted before you switched it on, spreads entries across a range, and shows each provider's running trades.",
+  "required": false,
+  "issued": 1793855960
+ },
+ "sig": "ASDdflDJ5QFD0nwSbvYCTO6WQIopl3I7Mf0ToCoOpVvEZENVZMOb510wlprrvYt29oPEYPvFekQFGjo9zeLo1IJRNO49MXNwLPD43rEfZJSY45GvJorVAxsL0Hy8UigF1IGfP3kZNUEN7yvq5FaVBOZ3WlnQ8Uy1-c5MB3VzOBtZJ-E1kbPhzirpIP_3phVfPKNDAKMm5GtZIz0WQI-AatKOubybvYxeZhbUTUq_3STOSJtxUkcZIYOlgL94fUaXPkv3TDu5vQBP7zi5WJtHXDCZYDmyPsFSWl1T-sgXL5KnKXo4NEs9yITV2xgaucc7aWABJrT8eCrxJm4Uy5WV3A"
+}
