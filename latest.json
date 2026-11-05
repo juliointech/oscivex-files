@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.28.3",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.3.exe",
-  "sha256": "3ae26f1c82249106b61530eb125b778ba1767054449b9f327420e3a308c1581c",
-  "notes": "Before set-up is finished, Oscivex no longer reopens MetaTrader 5 by itself: close it and it stays closed.",
+  "version": "2.28.4",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Oscivex-Setup-2.28.4.exe",
+  "sha256": "ecda8fc53d713ae97f747ec139bf9a727386b225e9cef575d2aedf0d285a6ca9",
+  "notes": "Oscivex now has its own window: MetaTrader 5 runs hidden behind it (the eye button shows it), and closing Oscivex closes MT5 too, after a warning. Also: log in from the dashboard if MT5 opens logged out, your limits apply from day one, and Telegram reconnects by itself.",
   "required": false,
-  "issued": 1793861403
+  "issued": 1793862906
  },
- "sig": "gLwD_XMVKKySqKdhsvE_DU53WLErdzs_ChYFDXND_6ByrzfjZm_gqgiKP9nStftfQQ7qwpLkknAtkvVwXskRNP4OElBDobyT-DJv2RZZIgGBmQ2Puvatgq6YqkGd5xKit7K-MwxA-KuigCO2MMzN02iwAbLrPu02KsFdemgvJbvbd15uwSQEjYdXNUIW0wSXX7tjMQ-2HZlwesox_vpe2HamAkx5TSQA5G09Av1gRHjYcCL3id5wiLN4QdxlrjMzV2dn3uaO2Cc97GAvBXhy4IAWmfXq3x-mlZ0MabKAaf1Mj_JYpp_eFpufa5JC3m0uCGvjyJC6M-OZotB_6nHegw"
+ "sig": "SoilWN7FVbxv2c9Vr7hZHsjFkhRgVhj5QjgtPy_sk0mSyU8B6xmx2U0HC6zM0o41YmSu_rR4IHk42b4AaVRcDLXJ9sgb7uQtlEHQRn1-sqVKR9aoa0VFB0lGNlDvMKOXLlecRnncT4fwWTA7pb7LrJpKtmTN5GxKrLm6XdUvan32yNXyVXfW_7iygw1fc07Y0t6AvS0FDjSDK3b7CendFiZqZkPmWopW3_q0m5eH5X1f81wQrkkvMLue5MdJK10TyKK4YZeYEOzhizRRrS0WXcrT0mpIqdFAf68nBMNX4jJFCaCiQ04GiFr7kKy6gRNsXm117tAuAtJ35EXaMuz8eQ"
 }
