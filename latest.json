@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.9",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.9.exe",
-  "sha256": "49933b45ce3d5069bb13e8d4091ee0f32c2b2a7d58010d85e76b478bb4eac734",
-  "notes": "If an extra account's connection freezes, Ablaze FX now restarts it by itself within about a minute, and the Trade page fills its symbol list again once it's back. The Guardian panel in MT5 says VIEW-ONLY when your broker won't take trades.",
+  "version": "2.44.10",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.10.exe",
+  "sha256": "d7b9ae32f0427da6648aa01464a1735c553e44e01fc86c84716eea7d731b355f",
+  "notes": "Fix: no more false 'This account can't trade' message right after the app logs back into an account.",
   "required": false,
-  "issued": 1793941640
+  "issued": 1793952781
  },
- "sig": "KAIVA2PmpAfT4zOGBWVKkKEx5YBl-2j45ajcmw_oxpLhSu4XG3HCF8tAHZmugxLJShW-vg6i9eti2KGc76g4bUhUYF7LJjJwzHyXiJnOMxdHVqrmARcSih3ikABxcb-DztKRcaAmGcVEfakQecMTvXQW18JBYuSwHUqJhAdNz4EyRtu_K83cLFtvm5p1E0ByyejR1tEtWp3Z5RVxM_zveCzw6NLyQwSOaWVG6iLdp9uQdK3civMGnW1PFaFKuUs2c3HpzOOPxQPqm-fxyjMiQJViil0sWGlA_28t2Q4ISJzivNOcGxWZcZ9A7_ehY1boNJy2h9eNDwkeCec2GY6Jhg"
+ "sig": "g2YTeUEQ3jAi5go7IGD5lLi0KQ3SlDZ9c3RJ2A3lWoIfLXPzkQGbO8wxwwmWcyS6DbjMhd5ls_IgMfqfe_MkD6Ra3R5-WSH9YYbwQFnpKuU0Bs7fqZvuJJv-aKdYPTxzpwCLWNoFQJZvJ1BXj80WeOG7RUH_1bocwmM8CGW7bujmfbYfqciOvLWsR4V1fD1_vbWsYYgmTIpI6T_aSNkE4O9eQUQ5dRseuQ3bXLszpbRDOMqsgN9AXMQk7OBKcECMDi3VCEGdDRbX3B4XaE5rr-a6gd3Nl6Icu8J0YtsYEUd7eedDlEnZaMgmVUe2Ds_NFG5W-FLeYss7n7XQtI4TGg"
 }
