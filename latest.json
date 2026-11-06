@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.1",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.1.exe",
-  "sha256": "cd15c5c94b62ecf0169e80556354b8354c81dfb48a5cb0045c98065e95856d2c",
-  "notes": "Small fix: a brand-new call now shows Waiting instead of No price data until its first prices come in.",
+  "version": "2.44.2",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.2.exe",
+  "sha256": "30b43ce9b47ea6d5b4a476d65941a698e0e18bbd37fd0423f76d8625eeaba17c",
+  "notes": "You can now switch the chart to any market while you're locked out or in a cooldown: click the market name at the top of the chart.",
   "required": false,
-  "issued": 1793931354
+  "issued": 1793936205
  },
- "sig": "Wv0E00tq37agJllCDlL2CpWoxWkugJvE-7rkf7KmKnUdSMgCc9loVphM-RGVBTRH_zRkAK-J7oYhda4Ia4NZ0r00cp9ndXE0AaEc3HAwRpb-9CW0YpxETYTLZS8AkfSO-IDzLk4abAxLRk8v8rJRqweeW3PFkdxoE2tH2Y_1mAFJ8VKKXBr0nNkh630xQYnJCZBAlrCLGGdOFb7Dp9l_MgXvfH5JXW48kF-NweZ-A2HmIyG4dPFDdRBOXMA-Xa_53tBTKmxfCnskFb4THRFLJZW7BuVqPaELcTK2BawSGcpXP05myJubDFBuEjRzIwGPvznauWH0g8AZuYNP09e7Zw"
+ "sig": "CT855eLa0SaK-JJ57bhel57m8QYIaP2OV48vx6ah2ID0FPMqoJ4g2fL-7gjIztofL4dwhEC0QJ6YZg2dbk5sbFpphoFmukYtaice7u5XNPwLeauubatiyEokxTdVJdAkDAFRJazDdZ8WFCnTH-S0qabg9qurF50ZAnYaSU0HSqh8F6zDYPLxsbr8ktnzSpx15t9a5CGwwBx6l9rEHxwOD3slJQT5trT66giHRDtQYzgdLcTdIHCw3RVPOPE1PpovPb-NTO6lbBETbsuw24LMMEPHAezyBjmx15QV9DQlfF8Y5vM142HTWBaAn2WVmsVWrse0AHDybqugue04t9H3hg"
 }
