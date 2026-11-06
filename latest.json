@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.0.exe",
-  "sha256": "c0a66d3035c9a6d4f23714559fa7fafc4db5fb5a32444cc423a3c5ad1464a38e",
-  "notes": "Ablaze FX now uses Ablaze's own logo: in the app, on the desktop and Start menu icons, the taskbar, and the phone home-screen icon.",
+  "version": "2.44.1",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.1.exe",
+  "sha256": "cd15c5c94b62ecf0169e80556354b8354c81dfb48a5cb0045c98065e95856d2c",
+  "notes": "Small fix: a brand-new call now shows Waiting instead of No price data until its first prices come in.",
   "required": false,
-  "issued": 1793930244
+  "issued": 1793931354
  },
- "sig": "gs7lpQ6wNjBY8SJxJ3bSG_xmcdZcWQywizchpC9AM7Yr7gPak_zPBfzMuszv5NK-pEVTvwbAW2kJmE8fMijQG2H6kXc4Gx1uEm7bTYvO6Jj7z-HWVEB1ZHOCTZSl_oOkvH_r-ZHnM8159Rsm4h1fqrPEAyrytnOfQWe2L2FzYO4t7oOVMHZzH0gAsBHXMVgkAU99xEChX_xp4fvr2-LgwS4SfS_oyvJpnBsBAU7K6gVnp7CsEJY8Sck_Kv21WlOMIYuMl9m1UQ5nlW0xYeLwYmesPj7DoQqJvZftRIK2FqDktqWHrze-29vJZ8r7ktRfIwCdxj0_HJLh1LNcpf0YHg"
+ "sig": "Wv0E00tq37agJllCDlL2CpWoxWkugJvE-7rkf7KmKnUdSMgCc9loVphM-RGVBTRH_zRkAK-J7oYhda4Ia4NZ0r00cp9ndXE0AaEc3HAwRpb-9CW0YpxETYTLZS8AkfSO-IDzLk4abAxLRk8v8rJRqweeW3PFkdxoE2tH2Y_1mAFJ8VKKXBr0nNkh630xQYnJCZBAlrCLGGdOFb7Dp9l_MgXvfH5JXW48kF-NweZ-A2HmIyG4dPFDdRBOXMA-Xa_53tBTKmxfCnskFb4THRFLJZW7BuVqPaELcTK2BawSGcpXP05myJubDFBuEjRzIwGPvznauWH0g8AZuYNP09e7Zw"
 }
