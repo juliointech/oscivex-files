@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.4",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.4.exe",
-  "sha256": "79b1b2ff8801b9cd66504888d98d97cc3386caf4f22fa6d875d2b0fc604627ae",
-  "notes": "Your broker's credit (bonus) now counts when you move money into copy trading and the AI bot. If your broker has an account set to view-only, Ablaze FX says so plainly instead of showing a lockout.",
+  "version": "2.44.5",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.5.exe",
+  "sha256": "c582d514a6c256b6522adba041b9ef16f322716f5a106618817a465d99220298",
+  "notes": "Your broker's credit (bonus) now counts when you move money into copy trading and the AI bot. If your broker has trading switched off for an account, Ablaze FX now says so plainly and tells you to ask the broker to enable it.",
   "required": false,
-  "issued": 1793939583
+  "issued": 1793939832
  },
- "sig": "jRoSMPiVc2cdDO45ang9d1IVN1RKJlatzuOluOtJimuyZ1EeoZiLBHciWMItkNF5GdSXTJR_R60qjgTVzkquNDD7nQhkBpMb3CueOtox7lJ1bEgRfAUPLN01waV4X0kNtXLjcfgcQJ6q4xNDRrF3q0opsFqejX3BYJa0QRirWm2trhvTbbqk49ZXAjVxQe0TmwoFK-h-xm-h-VHfZ9jvI7Hyt7qGA_AtMvWnydxUV-KfTvN6bU04ZpQ7pI1FwUWIX0qVuH-QhSku344GSQ6xKbiZmAfpd2Et9ls5R93FQ5knlGq2k8eY9Od5lfyLGIAjydLt-tpKAKifoSucAnXvoA"
+ "sig": "H1Sd29F2oc0obFweLShf2rPybxjwUVYvNdsT-YUCZb9VlGXUaGfK7k1_HcD3VOgnhGV-kOOXZ-pdrMbU7FxhkUQMaM1FwHqTpszjltQ-cjYSk5BFY68KTg0qp_EEp6l_Jlwz1kmA6x99GAqJ0MboLxyqio5DQAAAFdE_TSoBBxvBn_bJqanSWdzmPFQB761wxauUTGGrRhVxlNPWmKZD2EZ3uBQSZ4xx0Whq7_G3kE6xQB-Vq68D6gi4miDUOxgGGeUOu01cL8BzjC0DQSBx-lRDNQqTJISGYQ7cupf9B0elNTfPUyGhkXT5mS67RwKqN_1UDViefWZsCxsfwkfcbg"
 }
