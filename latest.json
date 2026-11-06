@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.43.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.43.0.exe",
-  "sha256": "c890e63a06ab920bcf2f4b668c476c341dc3fc6f1067cef827a42d8ef76ab9a7",
-  "notes": "Firebreak is now called Ablaze FX. The program, its shortcuts and the installer carry the new name (old shortcuts are replaced). The terms now say Ablaze FX, so you'll be asked to accept them once. Nothing about how it works has changed, and your copying keeps running.",
+  "version": "2.44.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.0.exe",
+  "sha256": "c0a66d3035c9a6d4f23714559fa7fafc4db5fb5a32444cc423a3c5ad1464a38e",
+  "notes": "Ablaze FX now uses Ablaze's own logo: in the app, on the desktop and Start menu icons, the taskbar, and the phone home-screen icon.",
   "required": false,
-  "issued": 1793928981
+  "issued": 1793930244
  },
- "sig": "c_BUcpon5TmCELIrRrPq5WWtSmfGI6Sda7wGJAy-_16qd_a_l5psGHrrXrDr6_kAipFHbkuOXfYJE2rSCgEk7qFWx-PKtYEzqh1NzGbLXazFuEPxZ4PAvAU2rBQs5Ig7l1mFqu9meQA1EQZWKehTseuct0JgxkcIACgSV1Oxa-d07zSCEu-_oUHks6QTDMZeW-7kvgaLc9XTxPUBcyFpIeh6U48nmo5rSo-KFn1MLYUo31X6vxFFZ475xn9u8sjYHSfZcZCPi0mMG2piKB3aFFAjr7QOqCe1o6anLfJU9jlNqWluyE7kWrb5aQRJkxXq1CCldzdSbxC0HsCcHKa0CA"
+ "sig": "gs7lpQ6wNjBY8SJxJ3bSG_xmcdZcWQywizchpC9AM7Yr7gPak_zPBfzMuszv5NK-pEVTvwbAW2kJmE8fMijQG2H6kXc4Gx1uEm7bTYvO6Jj7z-HWVEB1ZHOCTZSl_oOkvH_r-ZHnM8159Rsm4h1fqrPEAyrytnOfQWe2L2FzYO4t7oOVMHZzH0gAsBHXMVgkAU99xEChX_xp4fvr2-LgwS4SfS_oyvJpnBsBAU7K6gVnp7CsEJY8Sck_Kv21WlOMIYuMl9m1UQ5nlW0xYeLwYmesPj7DoQqJvZftRIK2FqDktqWHrze-29vJZ8r7ktRfIwCdxj0_HJLh1LNcpf0YHg"
 }
