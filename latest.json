@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.36.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.36.0.exe",
-  "sha256": "58bc3f928b0175d5add4f124ca78cf5757fc5796c2cc8cb1025264c22c2b3db9",
-  "notes": "A clearer Results page: your result for the range in one line, one chart of your running total with your locked days marked, then what's costing you and what's working as simple lines with the money, and a breakdown by session, weekday, hold time and more. Account growth, the calendar and every detailed breakdown are under More.",
+  "version": "2.37.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.37.0.exe",
+  "sha256": "6abe074479ec117e2db5aca1f9cb0d1c61c650480d48e786c72933535c888748",
+  "notes": "A cleaner Today page: your room for the day and where you are between your lock and your target, then today's trades in one list (open ones can be closed right there), and what's ahead: your plan, the next news with any trading pause, and the daily reset. The P&L chart, discipline numbers and activity are under More.",
   "required": false,
-  "issued": 1793924101
+  "issued": 1793924843
  },
- "sig": "Ir3rKbT668R0M0KBVhIh0ShDO0p0jLc7kRQtuzkVcXwrO3WTxV9XuDFXu3wV78GzvI8aKv18O_c8wR8AXT82j1yrudJsgIvIbhLAW1imfKwNS5AuqEGCeGO2jrwZoMQ6mAeIlSu5JoDaB_uJ4NPwarB6i6FDidyL2H9xwFd-_BdRMBJn1IaKCoOdXNYbrBUdyTwiXhSeohCX465d_Alt61A4H3PPWuVD7UM8vaYR0g1WjMVrcpksYw6VoRmVaMBDRiy7oITDHOTUJvIsdSv8jxfsrILP9KBmOmmxLVvz3iD0L4-lZ2x4CUhLSxm9Xm0RzyS4baxmdzVszlg9fpy02Q"
+ "sig": "VSfCIsEY_WrhLm-wNx_V45WMLFUjieAwj9VYhVHXCOa2kuxI35xodrXSjz4tpgtV4JrH0Y9guW61IgVccWpM8ibjjOK1pFTE66kZ1gu21ZBrAj5qSVz0EJyJfitEyd5JoQOCdcDCmUUkjaAOVOi8Ex1LcjS-5u3YhZCJtpznZMZ5AFYPzfwPX8Ct9XrKaZ1azIHMk6y3M5yc5I46C71JxrNKcw17rLI_z-dZMKG9q5M2Vl_Ar3fH2PCQl63K4Nq6aPSFNVE_Pdn4yH-zHNvbcnQ0RaKGA4lEE7fwU9XkByyVJBLC6kICcU7p0Hlz1hCab9IL8vKL1G44OXA206yU-w"
 }
