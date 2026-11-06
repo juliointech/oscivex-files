@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.11",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.11.exe",
-  "sha256": "ee9e181aa1d72f19beb6f4624e2c3902680333dd5192ebefa4da6bbe55207831",
-  "notes": "Ablaze FX keeps MT5's option that lets it place trades switched on, and tells you exactly where to fix it if MT5 still blocks trades.",
+  "version": "2.44.12",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.12.exe",
+  "sha256": "a550131118be8dfec8a9416b271ef3c32663b71a2df857c23ae9b5010ec105de",
+  "notes": "If an account can't trade, Ablaze FX now tells you to open MT5 and accept your broker's risk agreement first (new live accounts often need this once).",
   "required": false,
-  "issued": 1793953522
+  "issued": 1793953980
  },
- "sig": "Fv9wl7xX7eLQaw53NPdDVkJiLsf6WHZFKOzHVO36NlW9hEUlZESvQNYfBFL4lt69yDXr_yhgzutdLp8vyt-q3R4zLeSbG4Rq6AX4uV44fxf3bUjjnL8SRDkX2_0gXtTY5g06cx4nLBHynwtMx7nOztkAziUTDdp5sILNC0gGVmmCd6Lvcn1zI_GZ9BJRqyAprf1aPtbPPLYTAz9HkjKI1IF358FEg9nww1ReCnTwbtITdyyD5PrFuCE3VmUkdWXB6w_f4wsnfFCT-lJhvnjyhmvrNDTnyvR2gNEY4e5j4rt8xIoDDJDq42xq2lMm0VuG5ZjGsJ50nTgi9DnGjr0UOA"
+ "sig": "ZXp3KUmHTXEZwKFIaV1cZklCWrI9_zCxFqC9qoa01ENaVUHKA1ShtUfMPioby9KxNSOn7pYWkSEu1dQdo74RYG8Q8Gnuv_8oYjFMALcgVRUGHD0UiQFjwBIN-kzphbqj71DUV6RqULd85KUDoCiMFouKEftpNirQy8Ob7-hHYWcZ48ZeQqurFMDh8F3Q3CEuzfF6VFO0uG1i6QndmHp6RAfC5Jc-tWqQXj4WEo0ZsZIuki3h4dcH-QMD3tbBl_mnKaCkId88OmxKtSc_V59NfmHA4nrbsaqs5V5v0CWNvfNld5VMlKd7lt4GNGejwMVwGerIoKABOFIrA1K-JFbbog"
 }
