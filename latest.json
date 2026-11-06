@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.35.2",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.35.2.exe",
-  "sha256": "52ac6c43da647a773c00a5563c3d8e768b5cb57a430accfd13cca4e0aedd32dc",
-  "notes": "Fixes numbers and words being cut off when the window is resized: the P&L calendar now shows short amounts in narrow day boxes, news titles wrap, and the phone bar fits small screens.",
+  "version": "2.36.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.36.0.exe",
+  "sha256": "58bc3f928b0175d5add4f124ca78cf5757fc5796c2cc8cb1025264c22c2b3db9",
+  "notes": "A clearer Results page: your result for the range in one line, one chart of your running total with your locked days marked, then what's costing you and what's working as simple lines with the money, and a breakdown by session, weekday, hold time and more. Account growth, the calendar and every detailed breakdown are under More.",
   "required": false,
-  "issued": 1793923398
+  "issued": 1793924101
  },
- "sig": "InwVj8whor9QFW-Fgk9hqOwBZpX0PqUXYGXf-Xz8uP0MoxSQ6j1iHGneBJ2OI1rDWWwAB2-s8BvUkarenAygqNqHc28izH3wurpJ0sVefEC3gv1wmxoCAdLeixf9PWpYv9AsiYQlVT7uaRaf5lJyAzTZHjUwILSNxu53Ia-kqDTpT7GGQzx-5syyv3klo1IJacSrGju1PXNA7HfpGxsyv1L-boPWkpws5Ut8GHTFyphgVP5mKzME7o0Jnp8M1k-nS8wMWE2Y6R9mdwC3HFQaf7TSm57-wf5yiNgUFLtkyhDqGlB4Z8vObZT3FhgHrOnEMpOMI5ikNcl3-2QWnicmfg"
+ "sig": "Ir3rKbT668R0M0KBVhIh0ShDO0p0jLc7kRQtuzkVcXwrO3WTxV9XuDFXu3wV78GzvI8aKv18O_c8wR8AXT82j1yrudJsgIvIbhLAW1imfKwNS5AuqEGCeGO2jrwZoMQ6mAeIlSu5JoDaB_uJ4NPwarB6i6FDidyL2H9xwFd-_BdRMBJn1IaKCoOdXNYbrBUdyTwiXhSeohCX465d_Alt61A4H3PPWuVD7UM8vaYR0g1WjMVrcpksYw6VoRmVaMBDRiy7oITDHOTUJvIsdSv8jxfsrILP9KBmOmmxLVvz3iD0L4-lZ2x4CUhLSxm9Xm0RzyS4baxmdzVszlg9fpy02Q"
 }
