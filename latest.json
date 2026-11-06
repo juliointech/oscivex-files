@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.41.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.41.0.exe",
-  "sha256": "8ae20763da8ccb218f10bb9fc8edd207f10a0839233ba0e486f2461f7880b826",
-  "notes": "A clearer AI bot page: switch each strategy Off, Paper or Live right in the list, then see the picked one's results since you switched it on next to its settings (risk per trade and the chart it watches). A How the bot works guide is in the header. Going Live on a real-money account still asks first.",
+  "version": "2.42.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.42.0.exe",
+  "sha256": "356604c06349707ab454513c184b91b21f3ed932255b70e463628bcd93149a24",
+  "notes": "When a limit locks your day, Today now says plainly what happened and when it unlocks, shows how the day went, and offers two things to do while you wait: review today's trades or plan tomorrow. On phones the bottom bar is Today, Trade, Copy, AI bot and More. Setup and Settings show your limits side by side, like the rest of the new design.",
   "required": false,
-  "issued": 1793927180
+  "issued": 1793928216
  },
- "sig": "c3dIEy9MhYW6wzsM8dlUyapROd7boruFij3cUR8C2u5_lEcnUVZyILjNiFlMO4vBuSB5T5bSeKvZ6YUPX3NbPnyOgyA85ASqIhzr01J3Ovvu8Ff3RW1dbgEPhukLv2ByaWLYFzA0iQuSRZj5aBis8KjgO-Zw6KpOkSne8RyPKD3vfuPxD5_mS6bk2U85Hn_a2Wna_B2Qad03ehJBguk0Lr0QIlS25LozseGlf5NcgYPpOLlVR3qcVPS0VEgueYdGrcRkhxB2CKcmh-Q14j2BKW6874DQSgMMVd-lWlxRZ0NFXiH4nhZF_z8kv5TzbwrAv2Ea3YyTTOJx4jpl4RKsQw"
+ "sig": "kWF7lnWI357D7dCSzmc_9nwOUBUbCUqvFeWKyqjhee3JU1viGmRhRNmJqRyZWLtlkE_XcMaZDKT8_tkwFJoB8N4q2eXjhdGJISvRoLNBBSfO-PSfsmlqtOGjdRuutwwUIKloOxrFwUgYFizPqPCzCbCxZjjAcyHG8qP7hqr-f9gLdsvRR1FhtM5yJ9piNH9fDY6ZEjspbjeMhV9-Ml5lmQ3Ydiuw8N-XQhefg7nCMlNfhKfQBWoACo-xzgdBiTQfqPI4_0uhVRrSlTJZsQvpnPtH828M_bJfAPO6wjJkmys-0kQ_NW7qh2k3GX_DLEwBu86DKJxbYFkDmLSDQUzWrg"
 }
