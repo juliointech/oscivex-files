@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.3",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.3.exe",
-  "sha256": "bf5baa30c7bff0fb332c7cfdd3b9d7d833b5039dd7990f33c2955cfb260b04ca",
-  "notes": "Accounts added with a server name copied from the broker's email (like 'ErranteSC - Live') now connect. If MT5 is stuck showing a message, it comes back on screen so you can answer it.",
+  "version": "2.44.4",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.4.exe",
+  "sha256": "79b1b2ff8801b9cd66504888d98d97cc3386caf4f22fa6d875d2b0fc604627ae",
+  "notes": "Your broker's credit (bonus) now counts when you move money into copy trading and the AI bot. If your broker has an account set to view-only, Ablaze FX says so plainly instead of showing a lockout.",
   "required": false,
-  "issued": 1793938855
+  "issued": 1793939583
  },
- "sig": "K6DiAMXG6xu3IW7HRHfbwF47zvQ4da3pgNIcqPOjbTg207G-xtD1MrFCQ3S5j1PfoyLFhF3BAf2cPmScqfA1EtyFZmlzIBteo9fN679Sg7ulsdilA7Wyxnc2klWBANOy5YiiBXyBCG7GNz0wrSK7pZ4oy6GYdNZVA-neN_kwnWaWHN5UZX_p9LPGO2e23rEdMo1jt4vko0QEsgAg2cIcnLyfy9WHtUIER3fYkveM9l0o0YXEPzX3Yj0gLdbJXMPQ5I4jK0ZkH-uHeySfBD65aEyt7gZjUfagUIy0Po-wio1F_17XK8wdpXZa5v8K0dmyT96PpN2i2Rn30Oqcavw4Rg"
+ "sig": "jRoSMPiVc2cdDO45ang9d1IVN1RKJlatzuOluOtJimuyZ1EeoZiLBHciWMItkNF5GdSXTJR_R60qjgTVzkquNDD7nQhkBpMb3CueOtox7lJ1bEgRfAUPLN01waV4X0kNtXLjcfgcQJ6q4xNDRrF3q0opsFqejX3BYJa0QRirWm2trhvTbbqk49ZXAjVxQe0TmwoFK-h-xm-h-VHfZ9jvI7Hyt7qGA_AtMvWnydxUV-KfTvN6bU04ZpQ7pI1FwUWIX0qVuH-QhSku344GSQ6xKbiZmAfpd2Et9ls5R93FQ5knlGq2k8eY9Od5lfyLGIAjydLt-tpKAKifoSucAnXvoA"
 }
