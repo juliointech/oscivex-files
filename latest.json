@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.37.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.37.0.exe",
-  "sha256": "6abe074479ec117e2db5aca1f9cb0d1c61c650480d48e786c72933535c888748",
-  "notes": "A cleaner Today page: your room for the day and where you are between your lock and your target, then today's trades in one list (open ones can be closed right there), and what's ahead: your plan, the next news with any trading pause, and the daily reset. The P&L chart, discipline numbers and activity are under More.",
+  "version": "2.38.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.38.0.exe",
+  "sha256": "0ae6343027545498f63c2da197dffe0c61ce873c4536cf9971a2e23d7ef91871",
+  "notes": "A cleaner Journal: To review and All trades at the top with Review the whole day, your trades as plain lines (like Gold sell 0.10, 00:38, after a loss), and each review laid out simply: what happened, then a few quick questions, then Save and next. The trade chart is one click away under See it on the chart.",
   "required": false,
-  "issued": 1793924843
+  "issued": 1793925347
  },
- "sig": "VSfCIsEY_WrhLm-wNx_V45WMLFUjieAwj9VYhVHXCOa2kuxI35xodrXSjz4tpgtV4JrH0Y9guW61IgVccWpM8ibjjOK1pFTE66kZ1gu21ZBrAj5qSVz0EJyJfitEyd5JoQOCdcDCmUUkjaAOVOi8Ex1LcjS-5u3YhZCJtpznZMZ5AFYPzfwPX8Ct9XrKaZ1azIHMk6y3M5yc5I46C71JxrNKcw17rLI_z-dZMKG9q5M2Vl_Ar3fH2PCQl63K4Nq6aPSFNVE_Pdn4yH-zHNvbcnQ0RaKGA4lEE7fwU9XkByyVJBLC6kICcU7p0Hlz1hCab9IL8vKL1G44OXA206yU-w"
+ "sig": "VchWiaNh0s1gFuMCcmLKliZZpWYMIA9wewtwlb6W-8vGD1Tq15dGva28uDjY0RwbEOL-NxX_8qznMZg6KPWpNiZKAIkJk8KYNybvb8L1VTfGzgvnq8l9s6mP4rDWQT_X2TYmwTA9Gq6YyDVYc6UCMaZ5AQ_Ga2HPUvDVl3i3dO7JK7qLXthn7w-q5PLZUNzeMwkMZ-cPYdDfBc-UJ0RapimfWINMQIiKM4N1-288X42fP1pQW34h_awNnhrktbMYlbo7ZH-KSQrcf_5qRZ1jwW_mY6vIRk-BHXu6eypmRwKO1j_kSTBZrKrgP8fwAZwHvETF0gfCQ3SPd7weFky0Ww"
 }
