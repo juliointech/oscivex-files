@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.38.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.38.0.exe",
-  "sha256": "0ae6343027545498f63c2da197dffe0c61ce873c4536cf9971a2e23d7ef91871",
-  "notes": "A cleaner Journal: To review and All trades at the top with Review the whole day, your trades as plain lines (like Gold sell 0.10, 00:38, after a loss), and each review laid out simply: what happened, then a few quick questions, then Save and next. The trade chart is one click away under See it on the chart.",
+  "version": "2.39.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.39.0.exe",
+  "sha256": "1be5ccd12a47b25c6a595fcf425699cb0a4dce7f543d5cdd84d510cd50a6d246",
+  "notes": "A cleaner Trade page: your chart with your trades underneath, and one New order panel on the right with the ticket, the setup it found, and Paste a signal one click away. Buy and Sell still work in one click. Your open trades fit any window size, with their buttons always visible.",
   "required": false,
-  "issued": 1793925347
+  "issued": 1793926069
  },
- "sig": "VchWiaNh0s1gFuMCcmLKliZZpWYMIA9wewtwlb6W-8vGD1Tq15dGva28uDjY0RwbEOL-NxX_8qznMZg6KPWpNiZKAIkJk8KYNybvb8L1VTfGzgvnq8l9s6mP4rDWQT_X2TYmwTA9Gq6YyDVYc6UCMaZ5AQ_Ga2HPUvDVl3i3dO7JK7qLXthn7w-q5PLZUNzeMwkMZ-cPYdDfBc-UJ0RapimfWINMQIiKM4N1-288X42fP1pQW34h_awNnhrktbMYlbo7ZH-KSQrcf_5qRZ1jwW_mY6vIRk-BHXu6eypmRwKO1j_kSTBZrKrgP8fwAZwHvETF0gfCQ3SPd7weFky0Ww"
+ "sig": "OZdnQixr3gvU-iNNEUeEUQNNzt5upaao6p1-K4lNDMyKg5F3X1r3beu_RsjXfFBmH3pAdII2si4IO5BuXQLiPrRkIqTFW3JTDWAZ6JW0tVzWrzTY7Lgu_u-_ybtmsujugGNGGDcJZ0E7GvcgSEOKfKEwVFvS86ryPAmLiNU4_dpoW_SoKsjGKRs8i2LnAAW7CNMI-jKbigK8kz9CGzmngKl-pj3m4ByBza4QbIF56EXiMBun4LAggW1tEEyWc_akf3dc6LCcY2dIqC23d4b0lHt0dgmKp8GRo64o5ep41iRbp5XcePDSE0k5uJBWBVr8wZpwdJPArib3sBKZFLSrqw"
 }
