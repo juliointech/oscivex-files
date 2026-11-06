@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.35.1",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.35.1.exe",
-  "sha256": "6393466f4ec19c918dd076b39599f6cc4620b8f63627f7c3d085d42096b5a827",
-  "notes": "Fix: after an update, the app window could keep showing the old pages. It now always loads the newest ones, so you'll see the new Today, Copy trading, Trade, Results, Journal and AI bot pages.",
+  "version": "2.35.2",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.35.2.exe",
+  "sha256": "52ac6c43da647a773c00a5563c3d8e768b5cb57a430accfd13cca4e0aedd32dc",
+  "notes": "Fixes numbers and words being cut off when the window is resized: the P&L calendar now shows short amounts in narrow day boxes, news titles wrap, and the phone bar fits small screens.",
   "required": false,
-  "issued": 1793922367
+  "issued": 1793923398
  },
- "sig": "Xt_-B-WzH6K7FaTxecqjOs05XVvVnxVYjUyMNBzn3GHNEkgZnfF1dG7_omYOaLmuSgFacDPEQ9JqYKCidk3e12987NM-Gawo8DiEuuE-w9y1b1QMCLeh3L-cHnILjbuAf7BijZcRroCvbp1KUiRHKYNUo_26ihhtTwBek3Nifewg6rtYyaDEOV5XuLDf1yWFoA6nTMIhX97VlBPoQbgZ7gIi88sJd9U6v4yWH9vxLRkjjd_JT6s26stLfQqzW1T1EcbtDXsmFqIWDMHY3tHbY7DSabcUR8Fl6G_n47SjKD8sfIqp8HnYy3I3wprox5ZGYzbj-GOUgELTH8kSq55tVg"
+ "sig": "InwVj8whor9QFW-Fgk9hqOwBZpX0PqUXYGXf-Xz8uP0MoxSQ6j1iHGneBJ2OI1rDWWwAB2-s8BvUkarenAygqNqHc28izH3wurpJ0sVefEC3gv1wmxoCAdLeixf9PWpYv9AsiYQlVT7uaRaf5lJyAzTZHjUwILSNxu53Ia-kqDTpT7GGQzx-5syyv3klo1IJacSrGju1PXNA7HfpGxsyv1L-boPWkpws5Ut8GHTFyphgVP5mKzME7o0Jnp8M1k-nS8wMWE2Y6R9mdwC3HFQaf7TSm57-wf5yiNgUFLtkyhDqGlB4Z8vObZT3FhgHrOnEMpOMI5ikNcl3-2QWnicmfg"
 }
