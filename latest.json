@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.40.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.40.0.exe",
-  "sha256": "b04d16bb0a2e34699822df93ec5b876973e08867a8a98bbae5ca04507230745d",
-  "notes": "Copy trading now matches its new design: a How copying works guide in the header, your providers first, and copies that are running now listed below the table. Provider names read cleanly everywhere (Josh Signals instead of ABLAZE- JOSH SIGNALS).",
+  "version": "2.41.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.41.0.exe",
+  "sha256": "8ae20763da8ccb218f10bb9fc8edd207f10a0839233ba0e486f2461f7880b826",
+  "notes": "A clearer AI bot page: switch each strategy Off, Paper or Live right in the list, then see the picked one's results since you switched it on next to its settings (risk per trade and the chart it watches). A How the bot works guide is in the header. Going Live on a real-money account still asks first.",
   "required": false,
-  "issued": 1793926707
+  "issued": 1793927180
  },
- "sig": "Y2W1ztHRAIXF9PxQN6qYHatJwqYdmG6kUig-BWl5I_8KUsEt7OLjS_TjNlgNsxaVYEoD1Tc0P9leDgyPRcjF8JrzJnTpq_fodmR2lKGWtaNpVoyDsnlgppBoT4vK2QKfshkJjbbNICev3_f9IGWDo6dqC9GUR0mOGyYGkv3zulVZzSP7xlYAXRFPbJiuV4x7nBA0e3hf3EJOMMjs8Rni7Ovirqp8NmVh6-AUKaZi3hOR-GIFKEYpM9cNivvz-Q__Er8BcKuSTpNebKH2SSIZRxQ8EIl63C0_VUJb1XTnWf4I6Dxrf-jcrZ_bQvEJNRBztnMQl1_ix9MqRSJ3ITk4ag"
+ "sig": "c3dIEy9MhYW6wzsM8dlUyapROd7boruFij3cUR8C2u5_lEcnUVZyILjNiFlMO4vBuSB5T5bSeKvZ6YUPX3NbPnyOgyA85ASqIhzr01J3Ovvu8Ff3RW1dbgEPhukLv2ByaWLYFzA0iQuSRZj5aBis8KjgO-Zw6KpOkSne8RyPKD3vfuPxD5_mS6bk2U85Hn_a2Wna_B2Qad03ehJBguk0Lr0QIlS25LozseGlf5NcgYPpOLlVR3qcVPS0VEgueYdGrcRkhxB2CKcmh-Q14j2BKW6874DQSgMMVd-lWlxRZ0NFXiH4nhZF_z8kv5TzbwrAv2Ea3YyTTOJx4jpl4RKsQw"
 }
