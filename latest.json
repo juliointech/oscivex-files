@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.6",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.6.exe",
-  "sha256": "1d01b3822306001540ceb489b1306665e460d57398057d044d232ec75ab8d91c",
-  "notes": "Your broker's credit (bonus) now counts when you move money into copy trading and the AI bot. If an account stays view-only, Ablaze FX now tells you the two possible reasons and what to do about each.",
+  "version": "2.44.7",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.7.exe",
+  "sha256": "1a4ce3909ad03eb3cfccec1326fe1202acabe0201633a55413fac9a200abc438",
+  "notes": "Opening MetaTrader 5 from its own icon now shows it, even while Ablaze FX keeps it tucked away. Your broker's credit (bonus) counts in copy trading and AI bot wallets, and view-only accounts are explained plainly.",
   "required": false,
-  "issued": 1793940016
+  "issued": 1793940198
  },
- "sig": "OB_tgn8BSvRjOABiaYqFBFMAuSzGRzLr9ONGs8BjQUogHho2XF_N5yc62Djhqlrjnu8JJUVeVIACSMZNU2qo-5Km5WplO-Dq1nzts1KuPNQulE7F3Eib5mTQdEbJkYpA5e_biE1Cur_ULl4grp3PhBRhlDpK8IQ7bF8uuz0zen9EFwH6MUcrP49b0bYD0P9XUSkZxXDBLVac0qtgNrW475173wT5B1YcGgy-L4Y8lcm5BUAjXU3dHERzV9yIkWSnNKH4wqtYGJ9csMjgcgcL3fhBAecchsFnECqyw3qgCDvkmc4rfinHJOjMuoC-rkNg8XUJeTbnI2Yyl-4zyuEu8g"
+ "sig": "CZJkqz6Qb8Pu-3afN_tqHiagnJpQ0J-9G1FwZ68bSLsz7LAw77Ia4_VcmP_MX9ojaNrDhiZdIEMH--dCujfKYLzeS1J6vAxPg1N2t5aGtdstIAtto5eUA2YeS1-k9kWqwi7Ux6p-VPNYooG9O3f4I8vufrwOrAvPlbPoF7V9Rwbfx8c4S21KlNgW03sLZFWxIW7MEIn8AIWLdTmnQ0xE3_zMlvaq8umKKZ3wbsZv_J2ZHJJdHshkbXLHAxRXHpgyPNte95eIRHkcbamfoxe2Q7Gl9EzriinPXvTaPf6T8bPZTmp6l7EByUwLfarGBrsCw2lyawUcfIuUHYOxQhFmFw"
 }
