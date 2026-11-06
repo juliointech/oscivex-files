@@ -4,9 +4,9 @@
   "version": "2.44.11",
   "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.11.exe",
   "sha256": "ee9e181aa1d72f19beb6f4624e2c3902680333dd5192ebefa4da6bbe55207831",
-  "notes": "Ablaze FX now switches on MT5's setting that lets it place trades (some brokers' MT5, like Errante's, ship with it off), and tells you exactly where to tick it if MT5 was already open.",
+  "notes": "Ablaze FX keeps MT5's option that lets it place trades switched on, and tells you exactly where to fix it if MT5 still blocks trades.",
   "required": false,
-  "issued": 1793953490
+  "issued": 1793953522
  },
- "sig": "br-PpLCuhl5GEtM393MilnTgYkSp6crpEiu2NU4KTet4kZ7bt4XNBewpy4DRxMDS371f047eCIXdRU3-loNpx0Hx6LtU8Ovdcxq7w-mNva06cNZYOBCYEqjmp77FhKKmDja66D_8Zte1ZiF3QcBcMfxoc_C5icTMZu9ORoLwxg9LW7MzK2r3dQtQMkxfzMQMsqRVxy5jOJi8C3oLl1pmn7U3SHtmcwPtlglVRJgXuo60qveFrWw985x4WigK7H-c9zQT_KgJJA6yLUS2pHWGD3AcdAO02wSjjPe0TV1qhvlHg2QlHAGyHgQid2OC7gb5D1k8UcvUPi8IbNA9bHsppg"
+ "sig": "Fv9wl7xX7eLQaw53NPdDVkJiLsf6WHZFKOzHVO36NlW9hEUlZESvQNYfBFL4lt69yDXr_yhgzutdLp8vyt-q3R4zLeSbG4Rq6AX4uV44fxf3bUjjnL8SRDkX2_0gXtTY5g06cx4nLBHynwtMx7nOztkAziUTDdp5sILNC0gGVmmCd6Lvcn1zI_GZ9BJRqyAprf1aPtbPPLYTAz9HkjKI1IF358FEg9nww1ReCnTwbtITdyyD5PrFuCE3VmUkdWXB6w_f4wsnfFCT-lJhvnjyhmvrNDTnyvR2gNEY4e5j4rt8xIoDDJDq42xq2lMm0VuG5ZjGsJ50nTgi9DnGjr0UOA"
 }
