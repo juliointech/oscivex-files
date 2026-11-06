@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.39.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.39.0.exe",
-  "sha256": "1be5ccd12a47b25c6a595fcf425699cb0a4dce7f543d5cdd84d510cd50a6d246",
-  "notes": "A cleaner Trade page: your chart with your trades underneath, and one New order panel on the right with the ticket, the setup it found, and Paste a signal one click away. Buy and Sell still work in one click. Your open trades fit any window size, with their buttons always visible.",
+  "version": "2.40.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.40.0.exe",
+  "sha256": "b04d16bb0a2e34699822df93ec5b876973e08867a8a98bbae5ca04507230745d",
+  "notes": "Copy trading now matches its new design: a How copying works guide in the header, your providers first, and copies that are running now listed below the table. Provider names read cleanly everywhere (Josh Signals instead of ABLAZE- JOSH SIGNALS).",
   "required": false,
-  "issued": 1793926069
+  "issued": 1793926707
  },
- "sig": "OZdnQixr3gvU-iNNEUeEUQNNzt5upaao6p1-K4lNDMyKg5F3X1r3beu_RsjXfFBmH3pAdII2si4IO5BuXQLiPrRkIqTFW3JTDWAZ6JW0tVzWrzTY7Lgu_u-_ybtmsujugGNGGDcJZ0E7GvcgSEOKfKEwVFvS86ryPAmLiNU4_dpoW_SoKsjGKRs8i2LnAAW7CNMI-jKbigK8kz9CGzmngKl-pj3m4ByBza4QbIF56EXiMBun4LAggW1tEEyWc_akf3dc6LCcY2dIqC23d4b0lHt0dgmKp8GRo64o5ep41iRbp5XcePDSE0k5uJBWBVr8wZpwdJPArib3sBKZFLSrqw"
+ "sig": "Y2W1ztHRAIXF9PxQN6qYHatJwqYdmG6kUig-BWl5I_8KUsEt7OLjS_TjNlgNsxaVYEoD1Tc0P9leDgyPRcjF8JrzJnTpq_fodmR2lKGWtaNpVoyDsnlgppBoT4vK2QKfshkJjbbNICev3_f9IGWDo6dqC9GUR0mOGyYGkv3zulVZzSP7xlYAXRFPbJiuV4x7nBA0e3hf3EJOMMjs8Rni7Ovirqp8NmVh6-AUKaZi3hOR-GIFKEYpM9cNivvz-Q__Er8BcKuSTpNebKH2SSIZRxQ8EIl63C0_VUJb1XTnWf4I6Dxrf-jcrZ_bQvEJNRBztnMQl1_ix9MqRSJ3ITk4ag"
 }
