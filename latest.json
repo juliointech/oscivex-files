@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.10",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.10.exe",
-  "sha256": "d7b9ae32f0427da6648aa01464a1735c553e44e01fc86c84716eea7d731b355f",
-  "notes": "Fix: no more false 'This account can't trade' message right after the app logs back into an account.",
+  "version": "2.44.11",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.11.exe",
+  "sha256": "ee9e181aa1d72f19beb6f4624e2c3902680333dd5192ebefa4da6bbe55207831",
+  "notes": "Ablaze FX now switches on MT5's setting that lets it place trades (some brokers' MT5, like Errante's, ship with it off), and tells you exactly where to tick it if MT5 was already open.",
   "required": false,
-  "issued": 1793952781
+  "issued": 1793953490
  },
- "sig": "g2YTeUEQ3jAi5go7IGD5lLi0KQ3SlDZ9c3RJ2A3lWoIfLXPzkQGbO8wxwwmWcyS6DbjMhd5ls_IgMfqfe_MkD6Ra3R5-WSH9YYbwQFnpKuU0Bs7fqZvuJJv-aKdYPTxzpwCLWNoFQJZvJ1BXj80WeOG7RUH_1bocwmM8CGW7bujmfbYfqciOvLWsR4V1fD1_vbWsYYgmTIpI6T_aSNkE4O9eQUQ5dRseuQ3bXLszpbRDOMqsgN9AXMQk7OBKcECMDi3VCEGdDRbX3B4XaE5rr-a6gd3Nl6Icu8J0YtsYEUd7eedDlEnZaMgmVUe2Ds_NFG5W-FLeYss7n7XQtI4TGg"
+ "sig": "br-PpLCuhl5GEtM393MilnTgYkSp6crpEiu2NU4KTet4kZ7bt4XNBewpy4DRxMDS371f047eCIXdRU3-loNpx0Hx6LtU8Ovdcxq7w-mNva06cNZYOBCYEqjmp77FhKKmDja66D_8Zte1ZiF3QcBcMfxoc_C5icTMZu9ORoLwxg9LW7MzK2r3dQtQMkxfzMQMsqRVxy5jOJi8C3oLl1pmn7U3SHtmcwPtlglVRJgXuo60qveFrWw985x4WigK7H-c9zQT_KgJJA6yLUS2pHWGD3AcdAO02wSjjPe0TV1qhvlHg2QlHAGyHgQid2OC7gb5D1k8UcvUPi8IbNA9bHsppg"
 }
