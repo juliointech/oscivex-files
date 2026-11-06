@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.8",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.8.exe",
-  "sha256": "d906ca898e1bc757eb2cdead4c3fe9af4d95c357ec0c4be159b72d6226f4b756",
-  "notes": "The Guardian panel in MT5 now says VIEW-ONLY when your broker won't take trades on the account, instead of Trading Allowed. Opening MT5 from its own icon shows it, and your broker's credit counts in copy trading and AI bot wallets.",
+  "version": "2.44.9",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.9.exe",
+  "sha256": "49933b45ce3d5069bb13e8d4091ee0f32c2b2a7d58010d85e76b478bb4eac734",
+  "notes": "If an extra account's connection freezes, Ablaze FX now restarts it by itself within about a minute, and the Trade page fills its symbol list again once it's back. The Guardian panel in MT5 says VIEW-ONLY when your broker won't take trades.",
   "required": false,
-  "issued": 1793940340
+  "issued": 1793941640
  },
- "sig": "KzteRiQPSKs14mG3TSIym_pyBMDM7yvojLWCUfCVmhkRGdkmbZTb6IDTRmBIz78IeU2lBmR5lsVTPFXxgH_9C2zmOQV6BWZ0ORTdTpVUgy-x1ijeaQRF7Hxw__FbWChdHQ4lipN19Sl4QP3HBcThXQIoxWOl85Pm72x3rZydtze3zkKuKUuT46nUUK0qqNQ_tpPzKC-RtcbpAe2ainBWUWn7dodUF9c1_fvA109Q5AnbonuJ1g507WSXXBYbQq-iE3bPaAmwb1eerUjN_YIGkWmgVQt7QZVLj3jekgjJVE8ljw06WD6dymm_Bm3--lXQ7_W1q-YCpXaswKM2zBVt-A"
+ "sig": "KAIVA2PmpAfT4zOGBWVKkKEx5YBl-2j45ajcmw_oxpLhSu4XG3HCF8tAHZmugxLJShW-vg6i9eti2KGc76g4bUhUYF7LJjJwzHyXiJnOMxdHVqrmARcSih3ikABxcb-DztKRcaAmGcVEfakQecMTvXQW18JBYuSwHUqJhAdNz4EyRtu_K83cLFtvm5p1E0ByyejR1tEtWp3Z5RVxM_zveCzw6NLyQwSOaWVG6iLdp9uQdK3civMGnW1PFaFKuUs2c3HpzOOPxQPqm-fxyjMiQJViil0sWGlA_28t2Q4ISJzivNOcGxWZcZ9A7_ehY1boNJy2h9eNDwkeCec2GY6Jhg"
 }
