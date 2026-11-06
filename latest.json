@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.12",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.12.exe",
-  "sha256": "a550131118be8dfec8a9416b271ef3c32663b71a2df857c23ae9b5010ec105de",
-  "notes": "If an account can't trade, Ablaze FX now tells you to open MT5 and accept your broker's risk agreement first (new live accounts often need this once).",
+  "version": "2.44.14",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.14.exe",
+  "sha256": "6dea0654362b6e93edf1409eb000333e554b85fdcd1b018e56994194c542a922",
+  "notes": "MT5's own messages, like your broker's risk warning, now appear inside Ablaze FX: tick and press OK there, and MT5 stays out of the way.",
   "required": false,
-  "issued": 1793953980
+  "issued": 1793962741
  },
- "sig": "ZXp3KUmHTXEZwKFIaV1cZklCWrI9_zCxFqC9qoa01ENaVUHKA1ShtUfMPioby9KxNSOn7pYWkSEu1dQdo74RYG8Q8Gnuv_8oYjFMALcgVRUGHD0UiQFjwBIN-kzphbqj71DUV6RqULd85KUDoCiMFouKEftpNirQy8Ob7-hHYWcZ48ZeQqurFMDh8F3Q3CEuzfF6VFO0uG1i6QndmHp6RAfC5Jc-tWqQXj4WEo0ZsZIuki3h4dcH-QMD3tbBl_mnKaCkId88OmxKtSc_V59NfmHA4nrbsaqs5V5v0CWNvfNld5VMlKd7lt4GNGejwMVwGerIoKABOFIrA1K-JFbbog"
+ "sig": "UzfLRmi48bYyx3oN_mhVXNbKoYrewzfeu1lw08mWwFl0w4tFqvaezWSlbM672LY0KiAXlb9hMTyJx7I5dpaF7x2h52d9y8l8NWYtyEoGXwbkgZpGOEjixthk9z2mCR8XVsDeWfs7wOX_B_0Qiyt3ZP5Skz-vpMHZCtYAkBCM-J_NPkgoRtM835tZi9IwYiDa7Hap6PIZhVuq2UsWYwZjmKy7AYrN0dUOjFjxzywNSlG4RQuOWI1JvYMyQtwLFHn5N811vVbsbpeFnCXj8lB-27Ga8QaOxfEm6xPvtDkvdQ5plxEWR5KD7sToGEJ0-b7MIvFESQ8Q9esK6eGyLbc7xw"
 }
