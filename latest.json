@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.42.0",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/Firebreak-Setup-2.42.0.exe",
-  "sha256": "356604c06349707ab454513c184b91b21f3ed932255b70e463628bcd93149a24",
-  "notes": "When a limit locks your day, Today now says plainly what happened and when it unlocks, shows how the day went, and offers two things to do while you wait: review today's trades or plan tomorrow. On phones the bottom bar is Today, Trade, Copy, AI bot and More. Setup and Settings show your limits side by side, like the rest of the new design.",
+  "version": "2.43.0",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.43.0.exe",
+  "sha256": "c890e63a06ab920bcf2f4b668c476c341dc3fc6f1067cef827a42d8ef76ab9a7",
+  "notes": "Firebreak is now called Ablaze FX. The program, its shortcuts and the installer carry the new name (old shortcuts are replaced). The terms now say Ablaze FX, so you'll be asked to accept them once. Nothing about how it works has changed, and your copying keeps running.",
   "required": false,
-  "issued": 1793928216
+  "issued": 1793928981
  },
- "sig": "kWF7lnWI357D7dCSzmc_9nwOUBUbCUqvFeWKyqjhee3JU1viGmRhRNmJqRyZWLtlkE_XcMaZDKT8_tkwFJoB8N4q2eXjhdGJISvRoLNBBSfO-PSfsmlqtOGjdRuutwwUIKloOxrFwUgYFizPqPCzCbCxZjjAcyHG8qP7hqr-f9gLdsvRR1FhtM5yJ9piNH9fDY6ZEjspbjeMhV9-Ml5lmQ3Ydiuw8N-XQhefg7nCMlNfhKfQBWoACo-xzgdBiTQfqPI4_0uhVRrSlTJZsQvpnPtH828M_bJfAPO6wjJkmys-0kQ_NW7qh2k3GX_DLEwBu86DKJxbYFkDmLSDQUzWrg"
+ "sig": "c_BUcpon5TmCELIrRrPq5WWtSmfGI6Sda7wGJAy-_16qd_a_l5psGHrrXrDr6_kAipFHbkuOXfYJE2rSCgEk7qFWx-PKtYEzqh1NzGbLXazFuEPxZ4PAvAU2rBQs5Ig7l1mFqu9meQA1EQZWKehTseuct0JgxkcIACgSV1Oxa-d07zSCEu-_oUHks6QTDMZeW-7kvgaLc9XTxPUBcyFpIeh6U48nmo5rSo-KFn1MLYUo31X6vxFFZ475xn9u8sjYHSfZcZCPi0mMG2piKB3aFFAjr7QOqCe1o6anLfJU9jlNqWluyE7kWrb5aQRJkxXq1CCldzdSbxC0HsCcHKa0CA"
 }
