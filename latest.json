@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.14",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.14.exe",
-  "sha256": "6dea0654362b6e93edf1409eb000333e554b85fdcd1b018e56994194c542a922",
-  "notes": "MT5's own messages, like your broker's risk warning, now appear inside Ablaze FX: tick and press OK there, and MT5 stays out of the way.",
+  "version": "2.44.25",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.25.exe",
+  "sha256": "b0e46f1249cf35454f7c596789b9403be726fb5b2c98f7cddf90ebfa324713dc",
+  "notes": "Ablaze FX no longer freezes when MetaTrader is slow. New market picker with search and categories, showing only markets you can trade. On a new PC, setup installs Errante's MetaTrader 5 for you and you log in from inside Ablaze FX. The Guardian sets itself up. Install this version once from the download page: after that, updates are one click again.",
   "required": false,
-  "issued": 1793962741
+  "issued": 1794133625
  },
- "sig": "UzfLRmi48bYyx3oN_mhVXNbKoYrewzfeu1lw08mWwFl0w4tFqvaezWSlbM672LY0KiAXlb9hMTyJx7I5dpaF7x2h52d9y8l8NWYtyEoGXwbkgZpGOEjixthk9z2mCR8XVsDeWfs7wOX_B_0Qiyt3ZP5Skz-vpMHZCtYAkBCM-J_NPkgoRtM835tZi9IwYiDa7Hap6PIZhVuq2UsWYwZjmKy7AYrN0dUOjFjxzywNSlG4RQuOWI1JvYMyQtwLFHn5N811vVbsbpeFnCXj8lB-27Ga8QaOxfEm6xPvtDkvdQ5plxEWR5KD7sToGEJ0-b7MIvFESQ8Q9esK6eGyLbc7xw"
+ "sig": "QRGqRcuTMGZt1IYd4X08nka2a2JYGHcAS82MeSV-l0SYuaY807kHGtqORdE9OJSQvXs3dgFrkegD5qVjMf3D7WdaCvEXmMbCD1pvyFSEZKBL-BLPGtA2kwNXm8EYh_wJIk_6uPFWKi3K-iXXg8Cb1QFUciqwCm2aYDY0C-UmGundecfTX3yDdsVdgr22LFTM0zZ_eTz5A0hnoHD3_Z2_Tji7-dI1sLqXvTSKPOAsm9G4Sls3tNu7MJ4fMUyYnluiuJw2sdw1WNhQqZmQByusbXyHRqm-fdVvaiB2gKsex85gsRBbWQQR2IIgVI9D-dT0xRyFKydJuvCApjLEd7gA9g"
 }
