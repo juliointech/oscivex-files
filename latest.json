@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.35",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.35.exe",
-  "sha256": "0b509ea3bc62f5b452e84fe460c19b1df8db44a354acc6e247a0e451a7ff1f10",
-  "notes": "The Guardian now starts every time on Errante and stays on after MetaTrader closes or the PC restarts, so your limits are watched by MetaTrader itself again within seconds. Also: copy trading results on Errante's indices are corrected, and other fixes.",
+  "version": "2.44.37",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.37.exe",
+  "sha256": "a790c76ad3f5706d1d5628de038ff88a2832dd7ee641852e669465bcbc9d6a80",
+  "notes": "Copy trading results now count each position's pips added up (TP1 + TP2 + ...), show what a running call has already banked, count calls the provider reported as hitting targets, and read new re-entry zones correctly.",
   "required": false,
-  "issued": 1794183858
+  "issued": 1794214177
  },
- "sig": "FQ86795xQXyVb0bdw6l4TZCGHOUF-YTAM2s8kwpc7Px0wscQvv9rrXadCzNxkVa116Fb0fJ3msbS1meln7KqQ2YZ7G6LXpGXecSJzUuXmpBlDMshP14qbnaVAyDYq9wpiVyG_tgmzyp9-VLt8lfjtOrELsIUBuOl5IoooISqBEAOLxRJrely27s0-oFnakN2eNew78GpRksrLGN4IwAVASOqQUlm-NZPoV4-wN2Pnf0knDF5XTXe9EL2xdnRWySxEF3ET7eZ5D2TRGgT0eBj75SvW0f3k0st4dsqo_OKolCfDiC5cJgkR1RZjReg7ZYV55wi2NhwkhSaQE7itVU3pg"
+ "sig": "QyoAg6hbwO1Wa15apLyu-OTRRCKYkG5Dz4Nxz3r8dIzLPGPn1HPhe1yWSqbMeG5bzKbqS-9H2T8_I2HfsZEc7mKiNQOrMaK4wxNh4nGdyDcd1CkWUWi2n3Ggu6ChYYNsAWbzkjzQl3CcYvchJSaf1GTqiMGtFqQRqlLwDZgIgtsbF318tqo6DxRar6JKVhlCpOKIRUXw56jCG2yyRU96bsc2dtuy_v-__Q22vbq7lBllq2PV5kjZmJ1Bu3cRgKMbpJBbOczac_GBAkRs40-T8qF9X5wuw6r5PcUhMxsC0FIg965ghwvI7Q6s_m6fMYDpRaVhWJ_Dj98CEeG0rXVQtw"
 }
