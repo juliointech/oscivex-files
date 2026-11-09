@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.26",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.26.exe",
-  "sha256": "8cdead67d7b4e3ae7ac5efebef9fe0f2315d3da710c9f3c355f4d7ce1de86387",
-  "notes": "Ablaze FX no longer freezes when MetaTrader is slow. New market picker with search and categories, showing only markets you can trade. On a new PC, setup installs Errante's MetaTrader 5 for you and you log in from inside Ablaze FX. The Guardian sets itself up. Install this version once from the download page: after that, updates are one click again.",
+  "version": "2.44.35",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.35.exe",
+  "sha256": "0b509ea3bc62f5b452e84fe460c19b1df8db44a354acc6e247a0e451a7ff1f10",
+  "notes": "The Guardian now starts every time on Errante and stays on after MetaTrader closes or the PC restarts, so your limits are watched by MetaTrader itself again within seconds. Also: copy trading results on Errante's indices are corrected, and other fixes.",
   "required": false,
-  "issued": 1794135909
+  "issued": 1794183858
  },
- "sig": "CJuK-hYVXzYbbQ0j75tn3gPn14AoUO7_W2DU9e0AGFK02g9L9OH7MlTTggYiPXmWIgmWlZoK2Ggr9Ao1Ra4F124X5biDe_lsuQ1k8tLkgME7kqR-kaqEIB-EvAIFHprdeZZ7b4eFS0Mz-AqVC7C1W27qMCt9K9ZW5cA2_4J2IKS00GMbMS2dOHeykKSfjhOi_RrYXzSEca9ZouIWwNHxDCvst5a3Dih1GiaZ_lAmpNZs3Zrjy2ZF8ez-cKlucqFHeH7PGqIH6gDBm_9qdIZvTzpxn0AWKotGqg-GASGjTOtrW0jr_PcwaLGrwBQDwFv0rXC2fgZX2cz-kPtx1D554w"
+ "sig": "FQ86795xQXyVb0bdw6l4TZCGHOUF-YTAM2s8kwpc7Px0wscQvv9rrXadCzNxkVa116Fb0fJ3msbS1meln7KqQ2YZ7G6LXpGXecSJzUuXmpBlDMshP14qbnaVAyDYq9wpiVyG_tgmzyp9-VLt8lfjtOrELsIUBuOl5IoooISqBEAOLxRJrely27s0-oFnakN2eNew78GpRksrLGN4IwAVASOqQUlm-NZPoV4-wN2Pnf0knDF5XTXe9EL2xdnRWySxEF3ET7eZ5D2TRGgT0eBj75SvW0f3k0st4dsqo_OKolCfDiC5cJgkR1RZjReg7ZYV55wi2NhwkhSaQE7itVU3pg"
 }
