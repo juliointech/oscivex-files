@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.39",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.39.exe",
-  "sha256": "117ef54b4ff583e5982714edb582ba2d6c06f6fa7970c6e8740cfa359aaea0cd",
-  "notes": "Copy trading now follows providers more closely: 'close all' and stop moves are read even inside longer messages, stop moves go to the right trade, re-entries keep their own zone and stop, and a 'we go buy' after a sell is read as a buy.",
+  "version": "2.44.40",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.40.exe",
+  "sha256": "1eea19dd5d455b6913083cf42c40b6e4ba1c3a779902a5c064da81602ccca94b",
+  "notes": "Provider results are now counted setup by setup: each target is its own position, a stop loses on every position still open, and closes use the pips the provider posted. Each signal shows live whether it's active or not yet, and every provider now has a win rate, profit factor and Sharpe.",
   "required": false,
-  "issued": 1794218661
+  "issued": 1794276842
  },
- "sig": "hLFQlxxEQueus--CsI0t8ucBIL7kkQXW-0B1wXyxDNagV5pYEIj-PStaFdF3tOAmtyKQIGK-oJ5pBCS4q_7qDDSQDEN3fr1y0dmOksSXlySuIkH2UNzlp9pMvCKZqVwm3VYbEyuEASQhr_Kv8gSV4Id5jTUd9EXcWvrXMzIUMqeKs6ue5AmU7w9J8FhsBvt6LGW_Ebu7paSoYKgMPMRx2mjSEmQXnEyM6dlR8dEbgBDvlOZ-kyTntXsO_efE5UBza1yXGfkaug4XHSGeKbFfj7pmI_9TyFQKAVdXLSUdgXBvUEJusw5J73Yu-UGnOkAfMmk4Xvd89rRY12mn78PO7w"
+ "sig": "DPNIljRcOd8g1smMx4ObmeKCy7f0pDvsqIFIKU-YdqCzggUdYqbAc3NpdJjQ0bm_73_moVQz-kJsemuSmJnzw6L7klHL69SPWhNT1nSnhDH0qmGjoL-Qwotc13NIjjjGCPS1uZyheYhTOBpktJnvqi86d_8rxvIgRCHNGk7AdxOv6TtI1o2RHZY2eH9Nmc8QuHw7jXOCY582x54xKXo3MEoV_AUEqF3rmt0KoAtuveLbRw0L89CedU9wbc-6EOcMEnhFQ7ZokUDzx3oMLJxB9dSXd9CcgJXdtngJ0SKfR_iAAfCG6dlAtIec5RG4T8rXbwhxyNzn86VQ02bi8Z6hjg"
 }
