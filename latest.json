@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.40",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.40.exe",
-  "sha256": "1eea19dd5d455b6913083cf42c40b6e4ba1c3a779902a5c064da81602ccca94b",
-  "notes": "Provider results are now counted setup by setup: each target is its own position, a stop loses on every position still open, and closes use the pips the provider posted. Each signal shows live whether it's active or not yet, and every provider now has a win rate, profit factor and Sharpe.",
+  "version": "2.44.45",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.45.exe",
+  "sha256": "77fb541669d514d82b8fe69a2d97b2fc757f3d5271b3f4d9a2625f8e741f9b8b",
+  "notes": "Draw your own lines, trend lines and zones on the trading chart: they're saved per market. Calls that never filled now show what price did anyway (targets reached or the stop first). New Yesterday tab in copy trading, the copy page updates instantly, and each copied call shows how long it took to place.",
   "required": false,
-  "issued": 1794276842
+  "issued": 1794370584
  },
- "sig": "DPNIljRcOd8g1smMx4ObmeKCy7f0pDvsqIFIKU-YdqCzggUdYqbAc3NpdJjQ0bm_73_moVQz-kJsemuSmJnzw6L7klHL69SPWhNT1nSnhDH0qmGjoL-Qwotc13NIjjjGCPS1uZyheYhTOBpktJnvqi86d_8rxvIgRCHNGk7AdxOv6TtI1o2RHZY2eH9Nmc8QuHw7jXOCY582x54xKXo3MEoV_AUEqF3rmt0KoAtuveLbRw0L89CedU9wbc-6EOcMEnhFQ7ZokUDzx3oMLJxB9dSXd9CcgJXdtngJ0SKfR_iAAfCG6dlAtIec5RG4T8rXbwhxyNzn86VQ02bi8Z6hjg"
+ "sig": "K8MPSmbqF-S9-emJOGZ13zhCVCUS0y3mZSWV_n_TU0CHEwNOm3o2hXpFst48LjXHeKCqkdi8KOTep6ZGYWUwJKwgFLOgJDjdWecuX5cr5yE9mTy1NEEbm8ED6hZH-OAx_ZDrOewUk_CkoAAELMnOzJmCmGGqLsd7D9UtbFMRrp9-CNVEZmHrzLSs9EOYhjiZxbfbQQlq_zKT450ho9ccBNW_sBP4Nko0tNwAkJsNtEL2TqoSav8sB6c84EUWiCj2gT8MkkdcxRmEIQEFAPBY_3LGFuf5ArjSlPQdUpXFyI1EkKDG9Rzn_hiitI9vztJJ_mOZ7ToYSTf43_5hhRphjg"
 }
