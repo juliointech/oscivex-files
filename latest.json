@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.53",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.53.exe",
-  "sha256": "4e1f00067e9f7e08352e1b8b5387a308509ef720b57515b7d8fe0ff7419a9380",
-  "notes": "Better at understanding signal providers' messages. Messages posted while Ablaze FX was closed are now caught up when it starts. Copy trading page improvements.",
+  "version": "2.44.54",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.54.exe",
+  "sha256": "3635f76ef7d0c2afa3f3aa878a46d2f0950edfee3b4aa33334981356a8ecb56f",
+  "notes": "Small improvements. Ablaze FX now sends an anonymous daily count (no names, account numbers or trades) so we know how many people use it. You'll be asked to accept the updated terms once.",
   "required": false,
-  "issued": 1794442613
+  "issued": 1794448942
  },
- "sig": "UwqFJKmNS2DfDTnSls-JgEPJHMjThyAOJHDyM1VQHXOES6dchJYUdapoJXlsEZZFkqnTYJKNMnYaQH1XOyUOBsisipSbBL_s4DSOOnYgrXSulHzgX4d7-zfUOY_jWHk1G7RcoLSKCdt0q4-1DNu7SX3CrJICe2tgU7pJ6wzUXPD9pQdok8qZg2FUpwJ541CvRF7zE2yVviIib0ONYTmPid0Uwcohv_cZlK4kPuihq-t36t66zMmNH4dDIsnQn4tDoC1kLVGdEYsdJ6YDg5wqOvXGpQlVhxjNBEMDto0uIEiwRxVtbPPVuoE7IO9wbZFJCrPF5BakKwjCrcC3vcbuEA"
+ "sig": "b-yGWKwPSx_hy-qx9GkdYcx4yNx_zVPkx1zTgJSHiiZSWHLyTAryWJnhq2EzIfKYdrYpsttLkXD9Wxd-rPYbUHlo7ZZ9oQy5jIT_rL2aUHwFwO1FXallk6lnGP31beswL5DUjdxbKEvbo5Gven0Rge_6pVAiZoi2ibyTOpW1gjkuPKREZSqh_oDHRzlw8EY3QLGuWN8vgRKkK-zIW-eXVEyVaotKwu8Z_lQ3W2QGEKIGg2kUv1AnNP-yxLLX89x8e8YbRGZ3Hv34Ri3QfG_gCqi0UYNf1dmSFIXGntvw_F-2New9nYhV8v1eb24Ny71MnXNFv0VT1e2nar6Tgv0AxA"
 }
