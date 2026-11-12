@@ -32,9 +32,17 @@
       .then(function (doc) {
         var p = doc && doc.payload;
         if (!p || p.kind !== "update" || typeof p.url !== "string" || p.url.indexOf(ALLOWED) !== 0) throw new Error("bad manifest");
-        link.href = p.url;
-        link.textContent = "Download Ablaze FX " + p.version;
-        if (location.hash !== "#check") location.replace(p.url);
+        // Hand out the zip beside the installer (browsers warn far less about a zip); the bare .exe if there's no zip.
+        var zip = p.url.replace(/\.exe$/i, ".zip");
+        return fetch(zip, { method: "HEAD", cache: "no-store" })
+          .then(function (r) { return r.ok ? zip : p.url; }, function () { return p.url; })
+          .then(function (url) {
+            link.href = url;
+            link.textContent = "Download Ablaze FX " + p.version;
+            if (url === zip) document.getElementById("msg").textContent =
+              "When it has downloaded, open the zip and double-click AblazeFX-Setup inside it. If nothing happens in a few seconds, use the button below.";
+            if (location.hash !== "#check") location.replace(url);
+          });
       })
       .catch(function () {
         document.getElementById("title").textContent = "Get Ablaze FX";
