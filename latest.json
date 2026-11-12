@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.54",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.54.exe",
-  "sha256": "3635f76ef7d0c2afa3f3aa878a46d2f0950edfee3b4aa33334981356a8ecb56f",
-  "notes": "Small improvements. Ablaze FX now sends an anonymous daily count (no names, account numbers or trades) so we know how many people use it. You'll be asked to accept the updated terms once.",
+  "version": "2.44.56",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.56.exe",
+  "sha256": "eb00ac9446f0efae490c62e706df03683112902a7acd3791c1171af00d3ff282",
+  "notes": "Fixes gold signals that weren't read on some broker accounts. Signals the app can't read now show under \"Couldn't read\" instead of being skipped.",
   "required": false,
-  "issued": 1794448942
+  "issued": 1794481143
  },
- "sig": "b-yGWKwPSx_hy-qx9GkdYcx4yNx_zVPkx1zTgJSHiiZSWHLyTAryWJnhq2EzIfKYdrYpsttLkXD9Wxd-rPYbUHlo7ZZ9oQy5jIT_rL2aUHwFwO1FXallk6lnGP31beswL5DUjdxbKEvbo5Gven0Rge_6pVAiZoi2ibyTOpW1gjkuPKREZSqh_oDHRzlw8EY3QLGuWN8vgRKkK-zIW-eXVEyVaotKwu8Z_lQ3W2QGEKIGg2kUv1AnNP-yxLLX89x8e8YbRGZ3Hv34Ri3QfG_gCqi0UYNf1dmSFIXGntvw_F-2New9nYhV8v1eb24Ny71MnXNFv0VT1e2nar6Tgv0AxA"
+ "sig": "kqcXTG0NftVJGOTDo05gJs7JaiRFvRqa85DgfZgsycR_cCYVIhfahZ257n3Okm7J7Tg0BaMAoFgzF-_LeViWFjmMJfjGAC4pT4_1ZlKTr7502xgBDfxRzKfN2RqAbTFnLdQUD3ToSDu2h9QW10ks-Fwdir_7ZJI2u1oZcOM_vNugSklMqp33zr01Adt4eoxsatLX2UkMQYRny5TasfK5syNqIeLwR1CYRpcYcCPLyMkwLt2bUrFGSu2An3M0Gszq7pFIYKQiNYYXdWqSROEC8nv2MmUpko6BelmHDIeKyeIVmjYBs5Pr7LkU0UR7luPAhtenU0H7Z7Okk28E4qrTXQ"
 }
