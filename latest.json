@@ -1,12 +1,12 @@
 {
  "payload": {
   "kind": "update",
-  "version": "2.44.45",
-  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.45.exe",
-  "sha256": "77fb541669d514d82b8fe69a2d97b2fc757f3d5271b3f4d9a2625f8e741f9b8b",
-  "notes": "Draw your own lines, trend lines and zones on the trading chart: they're saved per market. Calls that never filled now show what price did anyway (targets reached or the stop first). New Yesterday tab in copy trading, the copy page updates instantly, and each copied call shows how long it took to place.",
+  "version": "2.44.53",
+  "url": "https://raw.githubusercontent.com/juliointech/oscivex-files/main/AblazeFX-Setup-2.44.53.exe",
+  "sha256": "4e1f00067e9f7e08352e1b8b5387a308509ef720b57515b7d8fe0ff7419a9380",
+  "notes": "Better at understanding signal providers' messages. Messages posted while Ablaze FX was closed are now caught up when it starts. Copy trading page improvements.",
   "required": false,
-  "issued": 1794370584
+  "issued": 1794442613
  },
- "sig": "K8MPSmbqF-S9-emJOGZ13zhCVCUS0y3mZSWV_n_TU0CHEwNOm3o2hXpFst48LjXHeKCqkdi8KOTep6ZGYWUwJKwgFLOgJDjdWecuX5cr5yE9mTy1NEEbm8ED6hZH-OAx_ZDrOewUk_CkoAAELMnOzJmCmGGqLsd7D9UtbFMRrp9-CNVEZmHrzLSs9EOYhjiZxbfbQQlq_zKT450ho9ccBNW_sBP4Nko0tNwAkJsNtEL2TqoSav8sB6c84EUWiCj2gT8MkkdcxRmEIQEFAPBY_3LGFuf5ArjSlPQdUpXFyI1EkKDG9Rzn_hiitI9vztJJ_mOZ7ToYSTf43_5hhRphjg"
+ "sig": "UwqFJKmNS2DfDTnSls-JgEPJHMjThyAOJHDyM1VQHXOES6dchJYUdapoJXlsEZZFkqnTYJKNMnYaQH1XOyUOBsisipSbBL_s4DSOOnYgrXSulHzgX4d7-zfUOY_jWHk1G7RcoLSKCdt0q4-1DNu7SX3CrJICe2tgU7pJ6wzUXPD9pQdok8qZg2FUpwJ541CvRF7zE2yVviIib0ONYTmPid0Uwcohv_cZlK4kPuihq-t36t66zMmNH4dDIsnQn4tDoC1kLVGdEYsdJ6YDg5wqOvXGpQlVhxjNBEMDto0uIEiwRxVtbPPVuoE7IO9wbZFJCrPF5BakKwjCrcC3vcbuEA"
 }
